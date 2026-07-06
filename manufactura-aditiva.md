@@ -10,11 +10,10 @@ La impresión 3D es el nombre popular de una familia de procesos de fabricación
 
 **La impresión 3D cambió la manera de prototipar**. En la fabricación sustractiva, como el maquinado CNC, se parte de un bloque y se remueve material hasta obtener la forma deseada. En el moldeo por inyección, se fabrica primero un molde y después se producen muchas piezas iguales. En la manufactura aditiva, en cambio, se parte de un modelo digital y la máquina deposita, cura, solidifica o fusiona material solamente donde se necesita construir la pieza.
 
-<div class="placeholder">
-<strong>Espacio sugerido para diagrama:</strong> comparación entre fabricación sustractiva, moldeo e impresión 3D. Archivo sugerido: <code>assets/img/intro/aditiva-sustractiva-moldeo.png</code>.
-</div>
+<code>assets/img/intro/aditiva-sustractiva-moldeo.png</code>
 
-En su forma más común, una pieza impresa en 3D se construye por capas. El software divide el modelo en secciones horizontales muy delgadas y la máquina ejecuta esas secciones una por una. La acumulación de capas produce el volumen completo:
+
+Una pieza impresa en 3D se construye por capas. El software divide el modelo en secciones horizontales muy delgadas y la máquina ejecuta esas secciones una por una. La acumulación de capas produce el volumen completo:
 
 - La pieza queda condicionada por la dirección en la que se fabrican las capas.
 - La resistencia no siempre es igual en todas las direcciones.
