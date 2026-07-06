@@ -6,19 +6,15 @@ nav_order: 2
 
 # Manufactura aditiva e impresión 3D
 
-La impresión 3D es el nombre popular de una familia de procesos de fabricación que construyen objetos físicos a partir de información digital. En un contexto técnico amplio, estos procesos pertenecen a la **manufactura aditiva**, porque la pieza se forma agregando material en lugar de retirarlo de un bloque inicial.
+La impresión 3D es el nombre popular de una familia de procesos de fabricación que construyen objetos físicos a partir de información digital. Estos procesos pertenecen a la **manufactura aditiva**, porque la pieza se forma agregando material en lugar de retirarlo de un bloque inicial.
 
-Esta distinción es importante para comprender por qué la impresión 3D cambió la manera de prototipar. En la fabricación sustractiva, como el maquinado CNC, se parte de un bloque y se remueve material hasta obtener la forma deseada. En el moldeo por inyección, se fabrica primero un molde y después se producen muchas piezas iguales. En la manufactura aditiva, en cambio, se parte de un modelo digital y la máquina deposita, cura, solidifica o fusiona material solamente donde se necesita construir la pieza.
+**La impresión 3D cambió la manera de prototipar**. En la fabricación sustractiva, como el maquinado CNC, se parte de un bloque y se remueve material hasta obtener la forma deseada. En el moldeo por inyección, se fabrica primero un molde y después se producen muchas piezas iguales. En la manufactura aditiva, en cambio, se parte de un modelo digital y la máquina deposita, cura, solidifica o fusiona material solamente donde se necesita construir la pieza.
 
 <div class="placeholder">
 <strong>Espacio sugerido para diagrama:</strong> comparación entre fabricación sustractiva, moldeo e impresión 3D. Archivo sugerido: <code>assets/img/intro/aditiva-sustractiva-moldeo.png</code>.
 </div>
 
-## 1. La idea básica: fabricar agregando material
-
-En su forma más común, una pieza impresa en 3D se construye por capas. El software divide el modelo en secciones horizontales muy delgadas y la máquina ejecuta esas secciones una por una. La acumulación de capas produce el volumen completo.
-
-Esta lógica parece simple, pero tiene consecuencias técnicas importantes:
+En su forma más común, una pieza impresa en 3D se construye por capas. El software divide el modelo en secciones horizontales muy delgadas y la máquina ejecuta esas secciones una por una. La acumulación de capas produce el volumen completo:
 
 - La pieza queda condicionada por la dirección en la que se fabrican las capas.
 - La resistencia no siempre es igual en todas las direcciones.
@@ -26,7 +22,9 @@ Esta lógica parece simple, pero tiene consecuencias técnicas importantes:
 - Algunas geometrías necesitan soportes temporales.
 - La precisión final depende de la máquina, el material, la temperatura y el archivo digital.
 
-En un FabLab, esta forma de fabricar es muy poderosa porque permite pasar de una idea a una primera versión física sin diseñar moldes, contratar herramentales ni esperar largos procesos de manufactura externa.
+<div class="placeholder">
+<strong>Espacio sugerido para diagrama:</strong> imagen de impresora 3d imprimiendo por capas y sus propiedades. Archivo sugerido: <code>assets/img/intro/capas.png</code>.
+</div>
 
 ## 2. Impresión 3D como herramienta de democratización tecnológica
 
