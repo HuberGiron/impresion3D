@@ -1,0 +1,32 @@
+title: Impresión 3D
+description: Manual técnico introductorio para FabLab, prototipado y fabricación digital
+
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+lang: es
+url: "https://hubergiron.github.io/"
+baseurl: "/impresion-3d"
+
+just_the_docs:
+  custom_css:
+    - "assets/css/custom.css"
+  footer_content: ""
+
+search_enabled: true
+search:
+  heading_level: 1
+
+aux_links:
+  "Repositorio en GitHub":
+    - "https://github.com/HuberGiron/impresion-3d"
+
+permalink: pretty
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor"

@@ -1,0 +1,30 @@
+:root {
+  --ibero-red: #C8102E;
+}
+.site-title {
+  font-weight: 700;
+}
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+  letter-spacing: -0.01em;
+}
+.main-content img {
+  border-radius: 10px;
+  border: 1px solid #ddd;
+  margin: 1rem 0;
+}
+.note-box {
+  border-left: 4px solid var(--ibero-red);
+  padding: 0.8rem 1rem;
+  background: #fafafa;
+  margin: 1.2rem 0;
+}
+.placeholder {
+  border: 2px dashed #bbb;
+  padding: 1rem;
+  border-radius: 10px;
+  color: #555;
+  background: #fbfbfb;
+  margin: 1rem 0;
+}
