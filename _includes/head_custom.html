@@ -4,13 +4,10 @@
   document.addEventListener('DOMContentLoaded', () => {
     const titleLink = document.querySelector('.site-title');
     if (!titleLink || titleLink.querySelector('img')) return;
-
-    const img = new Image();
+    const img = document.createElement('img');
     img.src = "{{ '/assets/img/logotipo.png' | relative_url }}";
     img.alt = "Logo";
     img.className = "site-logo";
-
-    // Evita mostrar icono roto si todavía no existe assets/img/logotipo.png
-    img.onload = () => titleLink.prepend(img);
+    titleLink.prepend(img);
   });
 </script>
