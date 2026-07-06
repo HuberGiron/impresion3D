@@ -1,7 +1,7 @@
 title: Impresión 3D
 description: Manual técnico introductorio para FabLab, prototipado y fabricación digital
 
-# Modo recomendado en GitHub Pages con Just the Docs
+# GitHub Pages + Just the Docs
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
@@ -11,10 +11,15 @@ lang: es
 url: "https://hubergiron.github.io"
 baseurl: "/impresion3D"
 
+# Just the Docs
 just_the_docs:
   custom_css:
     - "assets/css/custom.css"
   footer_content: ""
+
+# Algunas versiones de Just the Docs leen footer_content a nivel raíz.
+# Se mantiene también aquí para evitar que aparezca el pie default del tema.
+footer_content: ""
 
 search_enabled: true
 search:
@@ -27,7 +32,6 @@ aux_links:
     - "https://github.com/HuberGiron/impresion3D"
 
 aux_links_new_tab: true
-
 permalink: pretty
 
 exclude:

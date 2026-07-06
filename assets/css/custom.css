@@ -1,6 +1,6 @@
 /* ==========================================================
    Estilo institucional / FabLab para Just the Docs
-   Basado en el formato rojo utilizado en el curso CNC.
+   Ajustado para conservar el formato rojo usado en el curso CNC.
    ========================================================== */
 
 :root {
@@ -12,21 +12,15 @@
 }
 
 /* === HEADER (barra superior) === */
-.site-header {
-  background-color: var(--ibero-red) !important;
-}
-
-.site-title,
-.site-nav a {
-  color: #ffffff !important;
-}
+.site-header { background-color: var(--ibero-red) !important; }
+.site-title, .site-nav a { color: #ffffff !important; }
 
 .site-title {
-  font-weight: 600;
-  font-size: 1.35rem;
+  font-weight: 500;
+  font-size: 1.4rem;
 }
 
-/* Tamaño y espaciado del logo opcional en el título del sitio */
+/* Tamaño y espaciado del logo en el título del sitio */
 .site-logo,
 .site-title img {
   height: 28px;
@@ -37,30 +31,14 @@
 
 @media (max-width: 600px) {
   .site-logo,
-  .site-title img {
-    height: 24px;
-  }
+  .site-title img { height: 24px; }
 }
 
 /* === ENLACES EN CONTENIDO === */
-a,
-a:visited {
-  color: var(--ibero-red);
-}
-
-a {
-  text-decoration-color: rgba(224, 0, 52, 0.4);
-}
-
-a:hover {
-  color: var(--ibero-red-dark);
-  text-decoration-color: rgba(176, 0, 40, 0.6);
-}
-
-a:focus {
-  outline: 2px solid var(--ibero-red-soft);
-  outline-offset: 2px;
-}
+a, a:visited { color: var(--ibero-red); }
+a { text-decoration-color: rgba(224, 0, 52, 0.4); }
+a:hover { color: var(--ibero-red-dark); text-decoration-color: rgba(176, 0, 40, 0.6); }
+a:focus { outline: 2px solid var(--ibero-red-soft); outline-offset: 2px; }
 
 /* === SIDEBAR ROJO COMPLETO === */
 .side-bar,
@@ -69,16 +47,16 @@ a:focus {
   background-color: var(--ibero-red) !important;
 }
 
+/* Título del sitio en el sidebar */
 .side-bar .site-title {
   color: #ffffff !important;
   font-weight: 500;
   font-size: 1.4rem;
 }
 
+/* Links del sidebar */
 .nav-list .nav-list-link,
-.nav-list .nav-list-link:visited {
-  color: #ffffff !important;
-}
+.nav-list .nav-list-link:visited { color: #ffffff !important; }
 
 .nav-list .nav-list-link,
 .nav-list .nav-list-link.active,
@@ -104,11 +82,37 @@ a:focus {
   stroke: #ffffff !important;
   fill: none !important;
 }
-
 .nav-list-expander:hover,
 .nav-list-expander:hover svg {
   color: var(--ibero-red-soft) !important;
   stroke: var(--ibero-red-soft) !important;
+}
+
+/* === PIE DEFAULT DEL TEMA EN SIDEBAR ===
+   En Just the Docs puede aparecer como .site-footer dentro del sidebar.
+   Si no se oculta o recolorea, queda texto gris sobre fondo rojo.
+*/
+.side-bar .site-footer,
+.site-footer:not(.custom-footer) {
+  display: none !important;
+}
+
+/* Fallback: si alguna versión del tema fuerza display, al menos queda legible. */
+.side-bar .site-footer,
+.side-bar .site-footer p,
+.side-bar .site-footer span,
+.side-bar .site-footer *:not(a) {
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+.side-bar .site-footer a,
+.side-bar .site-footer a:visited {
+  color: var(--ibero-red-soft) !important;
+  text-decoration-color: rgba(255,213,222,0.6) !important;
+}
+.side-bar .site-footer a:hover {
+  color: #ffffff !important;
+  text-decoration-color: #ffffff !important;
 }
 
 /* === MENÚ HAMBURGUESA EN BLANCO === */
@@ -131,47 +135,30 @@ a:focus {
 
 #menu-toggle:checked + label,
 #menu-toggle:checked + label .menu-icon,
-#menu-toggle:checked + label .menu-icon svg,
-#menu-toggle:focus + label,
-.menu-button:focus {
+#menu-toggle:checked + label .menu-icon svg {
   color: #ffffff !important;
   fill: #ffffff !important;
   stroke: #ffffff !important;
-  outline: 2px solid var(--ibero-red-soft);
-  outline-offset: 2px;
 }
+#menu-toggle:focus + label,
+.menu-button:focus { outline: 2px solid var(--ibero-red-soft); outline-offset: 2px; }
 
-/* === BREADCRUMBS === */
+/* === MIGAS / BREADCRUMBS === */
 .breadcrumbs li a,
-.breadcrumbs li a:visited {
-  color: var(--ibero-red);
-}
-
-.breadcrumbs li a:hover {
-  color: var(--ibero-red-dark);
-}
+.breadcrumbs li a:visited { color: var(--ibero-red); }
+.breadcrumbs li a:hover { color: var(--ibero-red-dark); }
 
 /* === CONTENIDO === */
-.page-content {
-  background-color: #ffffff;
-  color: var(--content-gray);
-}
+.page-content { background-color: #ffffff; color: var(--content-gray); }
 
 .main-content h1,
 .main-content h2,
-.main-content h3 {
-  letter-spacing: -0.01em;
-}
-
-.main-content h1 {
-  color: #222222;
-}
-
+.main-content h3 { letter-spacing: -0.01em; }
+.main-content h1 { color: #222222; }
 .main-content h2 {
   border-bottom: 1px solid #e5e7eb;
   padding-bottom: .25rem;
 }
-
 .main-content img {
   border-radius: 10px;
   border: 1px solid #dddddd;
@@ -179,14 +166,8 @@ a:focus {
 }
 
 /* === TABLAS === */
-.main-content table {
-  font-size: .95rem;
-}
-
-.main-content th {
-  background: #f8f9fa;
-  color: #222222;
-}
+.main-content table { font-size: .95rem; }
+.main-content th { background: #f8f9fa; color: #222222; }
 
 /* === CAJAS DE CONTENIDO DEL MANUAL === */
 .note-box {
@@ -195,10 +176,7 @@ a:focus {
   background: #fff7f9;
   margin: 1.2rem 0;
 }
-
-.note-box strong {
-  color: var(--ibero-red-dark);
-}
+.note-box strong { color: var(--ibero-red-dark); }
 
 .placeholder {
   border: 2px dashed rgba(224, 0, 52, 0.45);
@@ -208,11 +186,7 @@ a:focus {
   background: #fffafa;
   margin: 1rem 0;
 }
-
-.placeholder strong {
-  color: var(--ibero-red-dark);
-}
-
+.placeholder strong { color: var(--ibero-red-dark); }
 .placeholder code {
   background: #ffffff;
   border: 1px solid #f0c8d0;
@@ -267,33 +241,23 @@ a:focus {
   color: var(--ibero-red-soft) !important;
   background: rgba(255,255,255,0.10) !important;
 }
-
 .side-bar .nav-list .nav-list-link.active {
   color: #ffffff !important;
   font-weight: 500;
   background: rgba(255,255,255,0.20) !important;
 }
-
 .side-bar .nav-list .nav-list-item .nav-list .nav-list-link:hover,
 .side-bar .nav-list .nav-list-item .nav-list .nav-list-link.active {
   border-left-color: var(--ibero-red-soft);
 }
-
 .side-bar .nav-list .nav-list-link:focus {
   outline: 2px solid var(--ibero-red-soft) !important;
   outline-offset: 2px;
   border-radius: 4px;
 }
+.side-bar .nav-list > .nav-list-item + .nav-list-item { margin-top: .15rem; }
 
-.side-bar .nav-list > .nav-list-item + .nav-list-item {
-  margin-top: .15rem;
-}
-
-/* === FOOTER DEL TEMA Y FOOTER PROPIO === */
-footer.site-footer {
-  display: none !important;
-}
-
+/* === FOOTER PROPIO DEL CONTENIDO === */
 .custom-footer {
   margin-top: 3rem;
   padding-top: 1rem;
@@ -301,30 +265,38 @@ footer.site-footer {
   font-size: 0.95rem;
   background: transparent;
 }
-
 .custom-footer a,
 .custom-footer a:visited {
   color: var(--ibero-red);
   text-decoration-color: rgba(224,0,52,.45);
 }
-
 .custom-footer a:hover {
   color: var(--ibero-red-dark);
   text-decoration-color: rgba(176,0,40,.65);
 }
-
-.custom-footer__modified strong {
-  color: #4B5563;
-}
+.custom-footer__modified strong { color: #4B5563; }
 
 @media (max-width: 66rem) {
-  .custom-footer {
-    background: #ffffff;
-    color: var(--muted-gray);
-  }
+  .custom-footer { background: #ffffff; color: var(--muted-gray); }
 }
 
 /* === CONTENEDORES DE MEDIOS PARA IMÁGENES, VIDEOS O EMBEDS === */
+.viewer-embed {
+  max-width: 640px;
+  margin: 1.5rem auto;
+  border-radius: 12px;
+  border-color: transparent;
+  overflow: hidden;
+  background: #ffffff;
+  aspect-ratio: 4 / 3;
+}
+.viewer-embed iframe {
+  display: block;
+  width: 100%;
+  height: 480px;
+  border: 0;
+}
+
 .content-media {
   max-width: 760px;
   margin: 1.5rem auto;
@@ -332,23 +304,12 @@ footer.site-footer {
   overflow: hidden;
   background: #ffffff;
 }
-
 .content-media video,
 .content-media iframe {
   display: block;
   width: 100%;
   border: 0;
 }
-
-.content-media video {
-  height: auto;
-}
-
-.content-media.ratio-16x9 {
-  aspect-ratio: 16 / 9;
-}
-
-.content-media.ratio-16x9 iframe {
-  width: 100%;
-  height: 100%;
-}
+.content-media video { height: auto; }
+.content-media.ratio-16x9 { aspect-ratio: 16 / 9; }
+.content-media.ratio-16x9 iframe { width: 100%; height: 100%; }

@@ -1,16 +1,16 @@
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+<link rel="icon" href="{{ '/assets/img/favicon.ico' | relative_url }}" sizes="any">
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const titleLink = document.querySelector('.site-title');
     if (!titleLink || titleLink.querySelector('img')) return;
 
-    const logo = new Image();
-    logo.src = "{{ '/assets/img/logotipo.png' | relative_url }}";
-    logo.alt = "Logo";
-    logo.className = "site-logo";
+    const img = new Image();
+    img.src = "{{ '/assets/img/logotipo.png' | relative_url }}";
+    img.alt = "Logo";
+    img.className = "site-logo";
 
-    // Solo inserta el logo si existe el archivo. Así evitamos un ícono roto
-    // cuando el repositorio todavía no tenga assets/img/logotipo.png.
-    logo.onload = () => titleLink.prepend(logo);
+    // Evita mostrar icono roto si todavía no existe assets/img/logotipo.png
+    img.onload = () => titleLink.prepend(img);
   });
 </script>
