@@ -21,9 +21,7 @@ Una pieza impresa en 3D se construye por capas. El software divide el modelo en 
 - Algunas geometrías necesitan soportes temporales.
 - La precisión final depende de la máquina, el material, la temperatura y el archivo digital.
 
-<div class="placeholder">
-<strong>Espacio sugerido para diagrama:</strong> imagen de impresora 3d imprimiendo por capas y sus propiedades. Archivo sugerido: <code>assets/img/intro/capas.png</code>.
-</div>
+![capas](assets/img/intro/capas.png)
 
 ## 2. Impresión 3D como herramienta de democratización tecnológica
 
