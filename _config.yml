@@ -8,7 +8,7 @@ plugins:
 
 lang: es
 url: "https://hubergiron.github.io/"
-baseurl: "/impresion-3d"
+baseurl: "/impresion3D"
 
 just_the_docs:
   custom_css:
@@ -21,7 +21,7 @@ search:
 
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/HuberGiron/impresion-3d"
+    - "https://github.com/HuberGiron/impresion3D"
 
 permalink: pretty
 
