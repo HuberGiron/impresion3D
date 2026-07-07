@@ -65,7 +65,7 @@ Aunque existen diferentes tecnologías de impresión 3D, el flujo general suele 
 
 ------
 
-## **Referencias**
+## Referencias
 
 [1] ISO, “ISO/ASTM 52900: Additive manufacturing — General principles — Fundamentals and vocabulary.”  
 [2] Stratasys, “FDM 3D Printing – Fused Deposition Modeling.”  

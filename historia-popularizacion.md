@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Historia y popularización
+title: Historia
 nav_order: 3
 ---
 
 # Historia y popularización de la impresión 3D
 
-La impresión 3D no nació como una herramienta doméstica ni como un juguete tecnológico. Su origen está ligado al **prototipado rápido** industrial: la necesidad de fabricar modelos físicos de manera más veloz para validar formas, ensambles y conceptos antes de invertir en moldes o producción a gran escala.
+La impresión 3D no nació como una herramienta doméstica ni como un juguete tecnológico. Su origen está ligado al **prototipado rápido industrial**: la necesidad de fabricar modelos físicos de manera más veloz para validar formas, ensambles y conceptos antes de invertir en moldes o producción a gran escala.
 
 Con el tiempo, lo que inició como una tecnología costosa y especializada se convirtió en una herramienta accesible para universidades, laboratorios, makerspaces, FabLabs y usuarios independientes. Esta transición es una de las razones por las que la impresión 3D es tan importante: no solo cambió la forma de fabricar prototipos, también cambió quién puede participar en el proceso de fabricación.
 
