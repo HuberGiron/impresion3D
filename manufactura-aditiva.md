@@ -73,6 +73,6 @@ Aunque existen diferentes tecnologías de impresión 3D, el flujo general suele 
 
 ------
 
-Siguiente sección
+## Siguiente sección
 
 [Historia y popularización](historia-popularizacion.md)
