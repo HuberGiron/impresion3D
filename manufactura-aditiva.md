@@ -22,11 +22,11 @@ Una pieza impresa en 3D se construye por capas. El software divide el modelo en 
 
 ![capas](assets/img/intro/capas.png)
 
-La impresión 3D no es la mejor tecnología para todo, pero es extraordinaria cuando el objetivo es explorar, iterar, personalizar o fabricar pocas piezas con geometrías específicas. La diferencia con otros procesos de fabricación es:
+La impresión 3D no es la mejor tecnología para todo, pero es útil cuando el objetivo es explorar, iterar, personalizar o fabricar pocas piezas con geometrías específicas. La diferencia con otros procesos de fabricación es:
 
 | Proceso | Cómo fabrica | Ventaja principal | Limitación principal |
 |---|---|---|---|
-| Impresión 3D | Agrega material capa por capa | Prototipos y personalización | Tiempo por pieza y anisotropía |
+| Impresión 3D | Agrega material capa por capa | Prototipos y personalización | Tiempo por pieza |
 | CNC | Retira material de un bloque | Precisión y materiales sólidos | Desperdicio y necesidad de herramienta |
 | Inyección de plástico | Llena un molde con polímero fundido | Producción masiva | Alto costo inicial de molde |
 | Corte láser | Corta o graba material plano | Rapidez en 2D | Limitado a láminas |
@@ -34,9 +34,9 @@ La impresión 3D no es la mejor tecnología para todo, pero es extraordinaria cu
 
 Un FabLab no es solamente un espacio con máquinas. Es un entorno donde se combinan diseño, fabricación, documentación y aprendizaje colaborativo. En ese contexto, la impresora 3D cumple una función especial: es una puerta de entrada rápida a la fabricación digital.
 
-A diferencia de una CNC o una cortadora láser, la impresora 3D suele requerir menos preparación inicial para fabricar una primera pieza. Esto la hace atractiva para nuevos usuarios. Sin embargo, su aparente facilidad puede ocultar la complejidad del proceso. Por eso es importante que el curso explique no solo “qué botón presionar”, sino qué decisiones técnicas están detrás de una buena impresión.
+A diferencia de una CNC o una cortadora láser, la impresora 3D suele requerir menos preparación inicial para fabricar una primera pieza. Esto la hace atractiva para nuevos usuarios. Sin embargo, su aparente facilidad puede ocultar la complejidad del proceso, por eso es importante saber qué decisiones técnicas están detrás de una buena impresión.
 
-Una impresora 3D de escritorio permite que un estudiante fabrique una carcasa para electrónica, que un profesor produzca modelos didácticos, que un diseñador valide una forma ergonómica, que un equipo de robótica fabrique soportes para sensores o que una persona adapte un objeto a una necesidad específica.
+Una impresora 3D de escritorio permite fabricar una carcasa para electrónica, producir modelos didácticos, validar una forma ergonómica, fabricar soportes para sensores o que una persona adapte un objeto a una necesidad específica.
 
 El valor de la impresión 3D en un FabLab está en cinco aspectos:
 
