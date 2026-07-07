@@ -12,24 +12,17 @@ En este capítulo la impresión 3D se analiza como una tecnología que cambió d
 
 Antes de la manufactura aditiva, **fabricar un prototipo físico podía tomar días, semanas o meses**. En ingeniería mecánica, diseño industrial y desarrollo de producto, una pieza requería normalmente maquinado, fundición, fabricación manual, moldes o herramentales. Esto hacía que el **error de diseño fuera caro**: una interferencia entre dos piezas, una mala ergonomía, un volumen incorrecto o un detalle geométrico mal resuelto podía descubrirse tarde.
 
-La idea que impulsó a las primeras tecnologías de impresión 3D fue: **usar datos digitales para construir directamente un objeto físico**, capa por capa, sin fabricar primero un molde o retirar material de un bloque completo.
+La idea que impulsó a las primeras tecnologías de impresión 3D fue: **usar datos digitales para construir directamente un objeto físico**, capa por capa, sin fabricar primero un molde o retirar material de un bloque completo.En sus primeras décadas, el término más usado no era "impresión 3D", sino **rapid prototyping** o prototipado rápido. El objetivo principal era acelerar el ciclo de desarrollo.La pieza no era de acabado final, era un modelo visual, una maqueta de ensamble, una pieza para verificar ergonomía, normalmente era un objeto para convencer a un cliente antes de fabricar el producto real.
 
-En sus primeras décadas, el término más usado no era "impresión 3D", sino **rapid prototyping** o prototipado rápido. El objetivo principal era acelerar el ciclo de desarrollo.
+## 1980–1986: Estereolitografía, Chuck Hull y la primera patente.
 
-La pieza no necesariamente era final. Muchas veces era un modelo visual, una maqueta de ensamble, una pieza para verificar ergonomía, una forma para fundición a la cera perdida o un objeto para convencer a un cliente antes de fabricar el producto real.
-
-## 1980–1986: estereolitografía, Chuck Hull y la primera patente clave
-
-La tecnología que normalmente se reconoce como la primera impresión 3D comercial fue la **estereolitografía** o **SLA**. Chuck Hull, cofundador de 3D Systems, desarrolló la idea a inicios de los años ochenta. En 1983 produjo una de las primeras piezas impresas mediante fotopolimerización, en 1984 presentó la solicitud de patente y en 1986 se concedió la patente estadounidense **[US4575330A](https://patents.google.com/patent/US4575330A/en)**, titulada *Apparatus for Production of Three-Dimensional Objects by Stereolithography*.
+La tecnología que normalmente se reconoce como la primera impresión 3D comercial fue la **estereolitografía** o **SLA**. Chuck Hull, cofundador de 3D Systems, desarrolló la idea a inicios de los años ochenta. En 1983 produjo una de las primeras piezas impresas mediante fotopolimerización, en **1984** presentó la solicitud de patente y en 1986 se concedió la patente estadounidense **[US4575330A](https://patents.google.com/patent/US4575330A/en)**, titulada *Apparatus for Production of Three-Dimensional Objects by Stereolithography*.
 
 La patente describe un sistema para fabricar objetos tridimensionales creando patrones de sección transversal sobre un medio líquido capaz de cambiar de estado físico, por ejemplo una resina curable con luz ultravioleta. Las capas sucesivas se integran entre sí hasta formar el objeto completo. Esa idea —convertir secciones digitales en capas físicas— sigue siendo la base conceptual de la impresión 3D actual.
 
-### 2.1 Primera etapa comercial: 3D Systems y la SLA-1
-
-3D Systems fue fundada en 1986 y comercializó la tecnología SLA en el ambiente industrial. La **SLA-1**, enviada comercialmente a finales de los años ochenta, se convirtió en uno de los símbolos del inicio de la impresión 3D como industria.
+**3D Systems fue fundada en 1986** y comercializó la tecnología SLA en el ambiente industrial. La **SLA-1**, enviada comercialmente a finales de los años ochenta, se convirtió en uno de los símbolos del inicio de la impresión 3D como industria.
 
 **Tipo de usuario de la época:**
-
 - centros de diseño industrial;
 - departamentos de ingeniería de empresas grandes;
 - automotriz;
@@ -39,7 +32,6 @@ La patente describe un sistema para fabricar objetos tridimensionales creando pa
 - oficinas de diseño de producto.
 
 **Uso principal:**
-
 - modelos conceptuales;
 - validación de forma;
 - prototipos para revisión visual;
@@ -48,25 +40,19 @@ La patente describe un sistema para fabricar objetos tridimensionales creando pa
 
 **Costo aproximado:**
 Las primeras impresoras 3D industriales se encontraban en rangos de cientos de miles de dólares. Algunas fuentes históricas ubican equipos de los años ochenta en el orden de **300,000 a 400,000 USD**, sin considerar materiales, mantenimiento, software, instalación ni capacitación.
-
-Ese dato es clave: la impresión 3D nació como tecnología de alto costo, no como herramienta doméstica. La democratización llegó mucho después.
+La impresión 3D nació como tecnología de alto costo.
 
 <div class="placeholder">
 <strong>Espacio sugerido para imagen histórica:</strong> 3D Systems SLA-1 o diagrama de estereolitografía con tanque de resina, láser UV y plataforma móvil. Archivo sugerido: <code>assets/img/historia/sla-1.png</code>.
 </div>
 
-## 3. 1987–1992: aparecen SLS y FDM, dos caminos que marcaron la industria
-
-Después de SLA aparecieron otras familias tecnológicas. Dos fueron decisivas: **SLS**, basada en polvo y láser, y **FDM**, basada en extrusión de termoplástico.
-
-### 3.1 Selective Laser Sintering: Carl Deckard, UT Austin y DTM
+## 1987–1992: Tecnología SLS(Selective Laser Sintering) y FDM(Fused Deposition Modeling)
 
 El **Sinterizado Selectivo por Láser** o **SLS** fue desarrollado por Carl Deckard y Joe Beaman en la Universidad de Texas en Austin durante los años ochenta. Una patente estadounidense representativa de esta familia tecnológica es **[US4863538A](https://patents.google.com/patent/US4863538A/en)**, *Method and apparatus for producing parts by selective sintering*. A diferencia de SLA, que utiliza resina líquida, SLS trabaja con polvo. Un láser sinteriza o fusiona selectivamente regiones de una cama de polvo, capa por capa.
 
-La tecnología fue comercializada por **DTM Corporation**, empresa que después sería adquirida por 3D Systems en 2001. SLS se volvió muy importante porque permitió fabricar piezas funcionales, especialmente en polímeros como nylon, sin requerir soportes tradicionales: el polvo no sinterizado sostiene la pieza durante la fabricación.
+La tecnología fue comercializada por **DTM Corporation**, empresa que después sería adquirida por 3D Systems en **2001**. SLS se volvió muy importante porque permitió fabricar piezas funcionales, especialmente en polímeros como nylon, sin requerir soportes tradicionales: el polvo no sinterizado sostiene la pieza durante la fabricación.
 
 **Tipo de usuario:**
-
 - empresas de ingeniería avanzada;
 - automotriz;
 - aeroespacial;
@@ -75,7 +61,6 @@ La tecnología fue comercializada por **DTM Corporation**, empresa que después 
 - fabricantes que necesitaban piezas funcionales de geometría compleja.
 
 **Ventajas históricas de SLS:**
-
 - piezas más funcionales que muchas piezas SLA tempranas;
 - posibilidad de geometrías complejas;
 - fabricación de lotes pequeños;
@@ -83,18 +68,15 @@ La tecnología fue comercializada por **DTM Corporation**, empresa que después 
 - uso de polímeros técnicos.
 
 **Limitaciones históricas:**
-
 - máquinas costosas;
 - control térmico complejo;
 - manejo de polvo;
 - postprocesado especializado;
 - difícil adopción doméstica.
 
-SLS nunca se volvió una tecnología doméstica masiva como FDM, pero sí fue una de las tecnologías que empujó a la manufactura aditiva hacia aplicaciones funcionales e industriales.
+SLS nunca se volvió una tecnología doméstica, pero sí fue una de las tecnologías que empujó a la manufactura aditiva hacia aplicaciones funcionales e industriales.
 
-### 3.2 Fused Deposition Modeling: Scott Crump y Stratasys
-
-La tecnología que más tarde dominaría la impresión 3D de escritorio fue **FDM** (*Fused Deposition Modeling*), patentada por Scott Crump y comercializada por **Stratasys**. La patente **[US5121329A](https://patents.google.com/patent/US5121329A/en)**, concedida en 1992, describe un método y aparato para crear objetos tridimensionales mediante deposición controlada de material.
+La tecnología que más tarde dominaría la impresión 3D de escritorio fue **FDM** (*Fused Deposition Modeling*), patentada por Scott Crump y comercializada por **Stratasys**. La patente **[US5121329A](https://patents.google.com/patent/US5121329A/en)**, concedida en **1992**, describe un método y aparato para crear objetos tridimensionales mediante deposición controlada de material.
 
 FDM utiliza filamento termoplástico, lo calienta y lo deposita capa por capa. En el mundo abierto y maker también se usa el término **FFF** (*Fused Filament Fabrication*), especialmente para evitar el uso de una marca registrada asociada a Stratasys.
 
