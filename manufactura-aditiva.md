@@ -51,7 +51,6 @@ Aunque existen diferentes tecnologías de impresión 3D, el flujo general suele 
 
 **1. Idea o necesidad:** Intención de fabricar una pieza, representar una geometría, resolver una necesidad, reparar un objeto, crear un prototipo o producir un modelo didáctico.
 
-
 **2. Modelo digital:** La pieza debe existir como modelo tridimensional. Puede diseñarse en CAD, descargarse de un repositorio, obtenerse por escaneo 3D o generarse con apoyo de inteligencia artificial. El modelo digital debe tener forma, escala y volumen. Para impresión 3D no basta que un objeto se vea bien en pantalla: debe poder interpretarse como un sólido fabricable.
 
 **3. Archivo imprimible:** El modelo se exporta normalmente como **STL, OBJ o 3MF**. Estos formatos describen la geometría de la pieza, generalmente como una malla formada por triángulos.
@@ -63,6 +62,7 @@ Aunque existen diferentes tecnologías de impresión 3D, el flujo general suele 
 **6. Postprocesado:** Después de imprimir, puede ser necesario retirar soportes, lijar, curar, lavar, ensamblar, insertar tornillos, pintar o verificar dimensiones.
 
 **7. Evaluación:** La pieza se revisa de acuerdo con su propósito: apariencia, dimensiones, ajuste, resistencia, flexibilidad, ergonomía o función mecánica.
+
 
 ## Referencias
 
