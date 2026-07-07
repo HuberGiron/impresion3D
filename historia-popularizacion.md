@@ -6,29 +6,19 @@ nav_order: 3
 
 # Historia y popularización de la impresión 3D
 
-La historia de la impresión 3D no es una línea recta donde una máquina industrial se vuelve, de pronto, una herramienta doméstica. Es una transición tecnológica de más de cuarenta años en la que se cruzan patentes, laboratorios de investigación, empresas de prototipado rápido, comunidades de hardware abierto, repositorios de modelos, software libre, caída de costos, cultura maker y una nueva forma de aprender fabricación.
+La historia de la impresión 3D es una transición tecnológica de más de cuarenta años en la que se cruzan patentes, laboratorios de investigación, empresas de prototipado rápido, comunidades de hardware abierto, repositorios de modelos, software libre, caída de costos, cultura maker y una nueva forma de aprender fabricación.
 
 En este capítulo la impresión 3D se analiza como una tecnología que cambió de escala social. Primero fue una herramienta costosa para departamentos de ingeniería, laboratorios de investigación, diseño automotriz, aeroespacial y desarrollo de producto. Después se convirtió en una máquina de escritorio para diseñadores, escuelas, FabLabs y usuarios independientes. Hoy conviven ambos mundos: sistemas industriales de cientos de miles de dólares para polímeros, resinas y metales; impresoras profesionales de escritorio para ingeniería, odontología y diseño; e impresoras FDM accesibles que permiten a estudiantes y comunidades fabricar sus primeros prototipos.
 
-<div class="placeholder">
-<strong>Espacio sugerido para línea de tiempo:</strong> 1980–2026, con patentes, primeras máquinas comerciales, RepRap, MakerBot, Prusa, Formlabs, Creality y Bambu Lab. Archivo sugerido: <code>assets/img/historia/linea-tiempo-impresion-3d.png</code>.
-</div>
+Antes de la manufactura aditiva, **fabricar un prototipo físico podía tomar días, semanas o meses**. En ingeniería mecánica, diseño industrial y desarrollo de producto, una pieza requería normalmente maquinado, fundición, fabricación manual, moldes o herramentales. Esto hacía que el **error de diseño fuera caro**: una interferencia entre dos piezas, una mala ergonomía, un volumen incorrecto o un detalle geométrico mal resuelto podía descubrirse tarde.
 
-## 1. Antes de llamarse impresión 3D: el problema del prototipado rápido
+La idea que impulsó a las primeras tecnologías de impresión 3D fue: **usar datos digitales para construir directamente un objeto físico**, capa por capa, sin fabricar primero un molde o retirar material de un bloque completo.
 
-Antes de la manufactura aditiva, fabricar un prototipo físico podía tomar días, semanas o meses. En ingeniería mecánica, diseño industrial y desarrollo de producto, una pieza requería normalmente maquinado, fundición, fabricación manual, moldes o herramentales. Esto hacía que el error de diseño fuera caro: una interferencia entre dos piezas, una mala ergonomía, un volumen incorrecto o un detalle geométrico mal resuelto podía descubrirse tarde.
-
-La idea que impulsó a las primeras tecnologías de impresión 3D fue sencilla y poderosa: **usar datos digitales para construir directamente un objeto físico, capa por capa, sin fabricar primero un molde o retirar material de un bloque completo**.
-
-En sus primeras décadas, el término más usado no era "impresión 3D", sino **rapid prototyping** o prototipado rápido. El objetivo principal era acelerar el ciclo de desarrollo:
-
-```text
-CAD → prototipo físico → revisión → corrección → nuevo prototipo
-```
+En sus primeras décadas, el término más usado no era "impresión 3D", sino **rapid prototyping** o prototipado rápido. El objetivo principal era acelerar el ciclo de desarrollo.
 
 La pieza no necesariamente era final. Muchas veces era un modelo visual, una maqueta de ensamble, una pieza para verificar ergonomía, una forma para fundición a la cera perdida o un objeto para convencer a un cliente antes de fabricar el producto real.
 
-## 2. 1980–1986: estereolitografía, Chuck Hull y la primera patente clave
+## 1980–1986: estereolitografía, Chuck Hull y la primera patente clave
 
 La tecnología que normalmente se reconoce como la primera impresión 3D comercial fue la **estereolitografía** o **SLA**. Chuck Hull, cofundador de 3D Systems, desarrolló la idea a inicios de los años ochenta. En 1983 produjo una de las primeras piezas impresas mediante fotopolimerización, en 1984 presentó la solicitud de patente y en 1986 se concedió la patente estadounidense **[US4575330A](https://patents.google.com/patent/US4575330A/en)**, titulada *Apparatus for Production of Three-Dimensional Objects by Stereolithography*.
 
