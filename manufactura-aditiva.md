@@ -15,7 +15,6 @@ La impresión 3D es el nombre popular de una familia de procesos de fabricación
 Una pieza impresa en 3D se construye por capas. El software divide el modelo en secciones horizontales muy delgadas y la máquina ejecuta esas secciones una por una. La acumulación de capas produce el volumen completo:
 
 - La pieza queda condicionada por la dirección en la que se fabrican las capas.
-- La resistencia no siempre es igual en todas las direcciones.
 - La calidad superficial depende de la altura de capa, la orientación y el material.
 - Algunas geometrías necesitan soportes temporales.
 - La precisión final depende de la máquina, el material, la temperatura y el archivo digital.
@@ -40,11 +39,11 @@ Una impresora 3D de escritorio permite fabricar una carcasa para electrónica, p
 
 El valor de la impresión 3D en un FabLab está en cinco aspectos:
 
-1. **Acceso:** permite fabricar sin depender siempre de proveedores externos.
-2. **Velocidad de iteración:** facilita probar muchas versiones de una idea.
-3. **Personalización:** permite producir piezas ajustadas a una necesidad concreta.
-4. **Aprendizaje:** hace visible la relación entre diseño, material, proceso y resultado.
-5. **Cultura de colaboración:** se apoya en repositorios, comunidades y documentación abierta.
+- **Acceso:** permite fabricar sin depender de proveedores externos.
+- **Velocidad de iteración:** facilita probar muchas versiones de una idea.
+- **Personalización:** permite producir piezas ajustadas a una necesidad concreta.
+- **Aprendizaje:** hace visible la relación entre diseño, material, proceso y resultado.
+- **Cultura de colaboración:** se apoya en repositorios, comunidades y documentación abierta.
 
 Aunque existen diferentes tecnologías de impresión 3D, el flujo general suele mantener una estructura común:
 
