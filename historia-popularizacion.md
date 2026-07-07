@@ -30,7 +30,7 @@ La pieza no necesariamente era final. Muchas veces era un modelo visual, una maq
 
 ## 2. 1980–1986: estereolitografía, Chuck Hull y la primera patente clave
 
-La tecnología que normalmente se reconoce como la primera impresión 3D comercial fue la **estereolitografía** o **SLA**. Chuck Hull, cofundador de 3D Systems, desarrolló la idea a inicios de los años ochenta. En 1983 produjo una de las primeras piezas impresas mediante fotopolimerización, en 1984 presentó la solicitud de patente y en 1986 se concedió la patente estadounidense **US4575330A**, titulada *Apparatus for Production of Three-Dimensional Objects by Stereolithography*.
+La tecnología que normalmente se reconoce como la primera impresión 3D comercial fue la **estereolitografía** o **SLA**. Chuck Hull, cofundador de 3D Systems, desarrolló la idea a inicios de los años ochenta. En 1983 produjo una de las primeras piezas impresas mediante fotopolimerización, en 1984 presentó la solicitud de patente y en 1986 se concedió la patente estadounidense **[US4575330A](https://patents.google.com/patent/US4575330A/en)**, titulada *Apparatus for Production of Three-Dimensional Objects by Stereolithography*.
 
 La patente describe un sistema para fabricar objetos tridimensionales creando patrones de sección transversal sobre un medio líquido capaz de cambiar de estado físico, por ejemplo una resina curable con luz ultravioleta. Las capas sucesivas se integran entre sí hasta formar el objeto completo. Esa idea —convertir secciones digitales en capas físicas— sigue siendo la base conceptual de la impresión 3D actual.
 
@@ -71,7 +71,7 @@ Después de SLA aparecieron otras familias tecnológicas. Dos fueron decisivas: 
 
 ### 3.1 Selective Laser Sintering: Carl Deckard, UT Austin y DTM
 
-El **Sinterizado Selectivo por Láser** o **SLS** fue desarrollado por Carl Deckard y Joe Beaman en la Universidad de Texas en Austin durante los años ochenta. A diferencia de SLA, que utiliza resina líquida, SLS trabaja con polvo. Un láser sinteriza o fusiona selectivamente regiones de una cama de polvo, capa por capa.
+El **Sinterizado Selectivo por Láser** o **SLS** fue desarrollado por Carl Deckard y Joe Beaman en la Universidad de Texas en Austin durante los años ochenta. Una patente estadounidense representativa de esta familia tecnológica es **[US4863538A](https://patents.google.com/patent/US4863538A/en)**, *Method and apparatus for producing parts by selective sintering*. A diferencia de SLA, que utiliza resina líquida, SLS trabaja con polvo. Un láser sinteriza o fusiona selectivamente regiones de una cama de polvo, capa por capa.
 
 La tecnología fue comercializada por **DTM Corporation**, empresa que después sería adquirida por 3D Systems en 2001. SLS se volvió muy importante porque permitió fabricar piezas funcionales, especialmente en polímeros como nylon, sin requerir soportes tradicionales: el polvo no sinterizado sostiene la pieza durante la fabricación.
 
@@ -104,7 +104,7 @@ SLS nunca se volvió una tecnología doméstica masiva como FDM, pero sí fue un
 
 ### 3.2 Fused Deposition Modeling: Scott Crump y Stratasys
 
-La tecnología que más tarde dominaría la impresión 3D de escritorio fue **FDM** (*Fused Deposition Modeling*), patentada por Scott Crump y comercializada por **Stratasys**. La patente **US5121329A**, concedida en 1992, describe un método y aparato para crear objetos tridimensionales mediante deposición controlada de material.
+La tecnología que más tarde dominaría la impresión 3D de escritorio fue **FDM** (*Fused Deposition Modeling*), patentada por Scott Crump y comercializada por **Stratasys**. La patente **[US5121329A](https://patents.google.com/patent/US5121329A/en)**, concedida en 1992, describe un método y aparato para crear objetos tridimensionales mediante deposición controlada de material.
 
 FDM utiliza filamento termoplástico, lo calienta y lo deposita capa por capa. En el mundo abierto y maker también se usa el término **FFF** (*Fused Filament Fabrication*), especialmente para evitar el uso de una marca registrada asociada a Stratasys.
 
@@ -206,7 +206,7 @@ Mientras una impresora profesional podía costar decenas de miles de dólares, a
 
 Una pregunta importante es cómo pudo avanzar RepRap si **Stratasys** tenía protegida la tecnología FDM. La respuesta no está en una sola causa, sino en la combinación de tiempo, alcance, lenguaje técnico, mercado objetivo y diseño abierto.
 
-Stratasys no compró originalmente FDM: la tecnología fue desarrollada por **Scott Crump**, cofundador de la empresa. La patente clave, **US5121329A**, titulada *Apparatus and method for creating three-dimensional objects*, fue solicitada en 1989 y concedida en 1992. Esa patente protegía el principio de crear objetos tridimensionales mediante deposición controlada de material, capa por capa. Durante los años noventa y buena parte de los dos mil, esto mantuvo la extrusión de termoplástico dentro de un mercado industrial dominado por Stratasys.
+Stratasys no compró originalmente FDM: la tecnología fue desarrollada por **Scott Crump**, cofundador de la empresa. La patente clave, **[US5121329A](https://patents.google.com/patent/US5121329A/en)**, titulada *Apparatus and method for creating three-dimensional objects*, fue solicitada en 1989 y concedida en 1992. Esa patente protegía el principio de crear objetos tridimensionales mediante deposición controlada de material, capa por capa. Durante los años noventa y buena parte de los dos mil, esto mantuvo la extrusión de termoplástico dentro de un mercado industrial dominado por Stratasys.
 
 RepRap comenzó en 2005, cuando la patente base de FDM estaba cerca de expirar. Además, RepRap no nació como una empresa que vendía impresoras comerciales a departamentos de ingeniería, sino como un **proyecto académico, experimental y abierto**. Su objetivo era explorar una impresora de bajo costo, parcialmente autorreplicable y documentada públicamente. Esto redujo el riesgo de conflicto directo porque el proyecto no competía inicialmente con el negocio industrial de Stratasys.
 
@@ -217,6 +217,16 @@ Las máquinas RepRap tampoco eran copias directas de equipos Stratasys. Las impr
 La diferencia de mercado fue igual de importante. Stratasys vendía confiabilidad industrial; RepRap promovía acceso, aprendizaje y fabricación distribuida. Uno vendía soluciones profesionales cerradas; el otro construía una comunidad técnica abierta. En esa primera etapa no estaban atendiendo al mismo usuario ni al mismo nivel de exigencia.
 
 Este contexto muestra que la democratización de la impresión 3D no ocurrió porque las patentes dejaran de importar. Ocurrió porque el principio básico empezó a salir de su periodo fuerte de protección, porque la comunidad creó arquitecturas alternativas y porque el nuevo mercado de escritorio no era todavía una amenaza directa para los equipos industriales.
+
+Para consulta directa, las patentes principales relacionadas con este tramo histórico pueden revisarse en Google Patents:
+
+| Patente | Tecnología / tema | Relevancia histórica |
+|---|---|---|
+| **[US4575330A](https://patents.google.com/patent/US4575330A/en)** | Estereolitografía, Chuck Hull / 3D Systems | Base de SLA y de la primera etapa comercial de impresión 3D. |
+| **[US4863538A](https://patents.google.com/patent/US4863538A/en)** | Sinterizado selectivo por láser | Patente representativa del uso de láser para sinterizar capas de polvo. |
+| **[US5121329A](https://patents.google.com/patent/US5121329A/en)** | FDM, Scott Crump / Stratasys | Patente base que protegió el principio de deposición de material capa por capa. |
+| **[US6722872B1](https://patents.google.com/patent/US6722872B1/en)** | Cámara calentada / modelado a alta temperatura | Ejemplo de patente periférica posterior: no protege el concepto básico de FDM, sino mejoras industriales específicas del sistema. |
+
 
 <div class="placeholder">
 <strong>Espacio sugerido para imagen:</strong> RepRap Darwin, Mendel y Prusa Mendel como evolución visual. Archivo sugerido: <code>assets/img/historia/reprap-evolucion.png</code>.
@@ -601,8 +611,8 @@ La impresión 3D se volvió interesante no porque todas las personas vayan a fab
 
 [1] 3D Systems, “Our Story.”  
 [2] 3D Systems, “Stereolithography.”  
-[3] Charles W. Hull, US Patent US4575330A, “Apparatus for production of three-dimensional objects by stereolithography.”  
-[4] Stratasys, US Patent US5121329A, “Apparatus and method for creating three-dimensional objects.”  
+[3] Charles W. Hull, **[US Patent US4575330A](https://patents.google.com/patent/US4575330A/en)**, “Apparatus for production of three-dimensional objects by stereolithography.”  
+[4] Stratasys, **[US Patent US5121329A](https://patents.google.com/patent/US5121329A/en)**, “Apparatus and method for creating three-dimensional objects.”  
 [5] Prusa Knowledge Base, “FFF/FDM.”  
 [6] UltiMaker, “FDM vs FFF: Understanding 3D printing technologies.”  
 [7] MakerBot, “History of 3D Printing.”  
@@ -613,11 +623,12 @@ La impresión 3D se volvió interesante no porque todas las personas vayan a fab
 [12] Wired, “3-D Printers Make Manufacturing Accessible.”  
 [13] Wired, “Shapeways interviews MakerBot.”  
 [14] Wired, “Portable and Affordable: New 3-D Printers That Cost Less Than $500.”  
-[15] University of Texas at Austin, “Selective Laser Sintering, From a Texas Idea to a Global Industry.”  
+[15] University of Texas at Austin, “Selective Laser Sintering, From a Texas Idea to a Global Industry”; Carl Deckard, **[US Patent US4863538A](https://patents.google.com/patent/US4863538A/en)**, “Method and apparatus for producing parts by selective sintering.”  
 [16] 3D Systems, “Reinventing Metal Additive Technology.”  
 [17] Formlabs, “Form 4 vs. Form 3/+.”  
 [18] Prusa Knowledge Base, “FAQ - Frequently Asked Questions.”  
 [19] Bambu Lab, “A1 Tech Specs.”  
+[20] Stratasys, **[US Patent US6722872B1](https://patents.google.com/patent/US6722872B1/en)**, “High temperature modeling apparatus.”  
 [20] Creality, “Ender-3 V3 SE.”  
 [21] MakerWorld, Thingiverse, Printables y otros repositorios comunitarios de modelos 3D.
 
