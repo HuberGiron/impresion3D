@@ -64,12 +64,12 @@ Aunque existen diferentes tecnologías de impresión 3D, el flujo general suele 
 **7. Evaluación:** La pieza se revisa de acuerdo con su propósito: apariencia, dimensiones, ajuste, resistencia, flexibilidad, ergonomía o función mecánica.
 
 
-## Referencias
+### Referencias
 
 [1] ISO, “ISO/ASTM 52900: Additive manufacturing — General principles — Fundamentals and vocabulary.”  
 [2] Stratasys, “FDM 3D Printing – Fused Deposition Modeling.”  
 [3] NIOSH, “3D Printing with Filaments: Health and Safety Questions to Ask.”
 
-## Siguiente sección
+### Siguiente sección
 
 [Historia y popularización](historia-popularizacion.md)
