@@ -202,6 +202,22 @@ Esto fue fundamental para los FabLabs. Una impresora 3D dejó de ser una caja ce
 **Costos aproximados de entrada en la etapa RepRap:**  
 Mientras una impresora profesional podía costar decenas de miles de dólares, algunos proyectos y kits inspirados en RepRap comenzaron a prometer impresoras de cientos de dólares. En reportes de la época se hablaba de RepRap como una máquina construible por debajo de **400 USD**, aunque el costo real dependía fuertemente de disponibilidad de piezas, electrónica, herramientas, calidad de componentes y experiencia del usuario.
 
+### 6.2 Por qué RepRap pudo avanzar aunque existían patentes FDM
+
+Una pregunta importante es cómo pudo avanzar RepRap si **Stratasys** tenía protegida la tecnología FDM. La respuesta no está en una sola causa, sino en la combinación de tiempo, alcance, lenguaje técnico, mercado objetivo y diseño abierto.
+
+Stratasys no compró originalmente FDM: la tecnología fue desarrollada por **Scott Crump**, cofundador de la empresa. La patente clave, **US5121329A**, titulada *Apparatus and method for creating three-dimensional objects*, fue solicitada en 1989 y concedida en 1992. Esa patente protegía el principio de crear objetos tridimensionales mediante deposición controlada de material, capa por capa. Durante los años noventa y buena parte de los dos mil, esto mantuvo la extrusión de termoplástico dentro de un mercado industrial dominado por Stratasys.
+
+RepRap comenzó en 2005, cuando la patente base de FDM estaba cerca de expirar. Además, RepRap no nació como una empresa que vendía impresoras comerciales a departamentos de ingeniería, sino como un **proyecto académico, experimental y abierto**. Su objetivo era explorar una impresora de bajo costo, parcialmente autorreplicable y documentada públicamente. Esto redujo el riesgo de conflicto directo porque el proyecto no competía inicialmente con el negocio industrial de Stratasys.
+
+También fue importante el uso del término **FFF** (*Fused Filament Fabrication*) en lugar de **FDM**. FDM estaba asociado a Stratasys como denominación comercial; FFF se volvió el término genérico usado por la comunidad abierta para describir impresoras que extruyen filamento fundido sin utilizar la marca comercial de Stratasys. Por eso, en muchos documentos de código abierto, educación y cultura maker se habla de FFF cuando técnicamente el principio de fabricación se parece al FDM industrial.
+
+Las máquinas RepRap tampoco eran copias directas de equipos Stratasys. Las impresoras industriales usaban cámaras, materiales propietarios, sistemas de soporte, control térmico, software y servicios profesionales. Las RepRap usaban varillas, motores paso a paso, electrónica de bajo costo, firmware abierto, hotends simples, piezas imprimibles y materiales genéricos. Eran más limitadas, pero también más comprensibles, reparables y modificables.
+
+La diferencia de mercado fue igual de importante. Stratasys vendía confiabilidad industrial; RepRap promovía acceso, aprendizaje y fabricación distribuida. Uno vendía soluciones profesionales cerradas; el otro construía una comunidad técnica abierta. En esa primera etapa no estaban atendiendo al mismo usuario ni al mismo nivel de exigencia.
+
+Este contexto muestra que la democratización de la impresión 3D no ocurrió porque las patentes dejaran de importar. Ocurrió porque el principio básico empezó a salir de su periodo fuerte de protección, porque la comunidad creó arquitecturas alternativas y porque el nuevo mercado de escritorio no era todavía una amenaza directa para los equipos industriales.
+
 <div class="placeholder">
 <strong>Espacio sugerido para imagen:</strong> RepRap Darwin, Mendel y Prusa Mendel como evolución visual. Archivo sugerido: <code>assets/img/historia/reprap-evolucion.png</code>.
 </div>
@@ -260,6 +276,18 @@ En 2010 apareció la **MakerBot Thing-O-Matic**, también como kit. Su precio de
 
 Aun así, estas máquinas fueron decisivas porque crearon una generación de usuarios que aprendieron impresión 3D desde la máquina misma.
 
+### 7.4 MakerBot, la expiración de la patente base y el giro comercial
+
+MakerBot apareció en un momento histórico muy preciso. La patente principal de FDM de Stratasys fue solicitada en 1989, por lo que su vigencia práctica terminó alrededor de **2009**. Ese mismo año MakerBot lanzó la Cupcake CNC. La coincidencia no es menor: la expiración de la patente base abrió una ventana para que empresas de escritorio pudieran comercializar impresoras de extrusión de filamento sin enfrentar el mismo bloqueo jurídico que habría existido años antes.
+
+Esto no significaba que todo el campo quedara libre. Stratasys y otras empresas conservaban patentes periféricas relacionadas con cámaras calentadas, cartuchos, materiales, soportes, cabezales, control térmico, trayectorias y otros detalles del sistema. Por eso las máquinas abiertas tomaron otro camino: marcos sencillos, camas calientes de bajo costo, materiales genéricos, firmware comunitario, electrónica accesible y soluciones mecánicas más simples.
+
+MakerBot inició con una identidad cercana a RepRap: kits, documentación, comunidad y cultura abierta. Sin embargo, al crecer, la empresa empezó a moverse hacia productos más cerrados y orientados a consumidores, educación y oficinas. Ese giro produjo tensiones con parte de la comunidad maker, porque muchos usuarios habían participado bajo expectativas de apertura, modificación y reciprocidad.
+
+En 2013, **Stratasys adquirió MakerBot**. Históricamente, este hecho es muy significativo: una compañía nacida de la cultura open source y del entusiasmo maker terminó integrada a la empresa que había construido el negocio industrial de FDM. La adquisición mostró dos cosas al mismo tiempo. Primero, que la impresión 3D de escritorio ya era un mercado suficientemente importante para las empresas industriales. Segundo, que el movimiento abierto había demostrado una ruta de acceso que las compañías tradicionales no habían desarrollado por sí solas.
+
+La historia de MakerBot también sirve como advertencia para los FabLabs. Abrir una tecnología no solo significa vender máquinas más baratas. Implica sostener documentación, reparabilidad, comunidad, archivos, aprendizaje y posibilidad de modificación. Cuando una plataforma se cierra demasiado, puede ganar facilidad de uso, pero pierde parte del valor educativo que la hizo interesante.
+
 ## 8. 2010–2014: Prusa, Ultimaker, Printrbot y la explosión de diseños abiertos
 
 Entre 2010 y 2014 el ecosistema de escritorio se multiplicó. No existía todavía una "impresora estándar", sino muchas variaciones basadas en ideas RepRap.
@@ -304,6 +332,20 @@ El abaratamiento no se explica por una sola causa. Ocurrió por combinación de:
 - competencia entre fabricantes.
 
 Cuando las patentes de tecnologías clave fueron expirando, más empresas pudieron entrar. En FDM/FFF, el cambio fue especialmente visible: el mercado pasó de unos pocos fabricantes industriales a decenas de marcas de escritorio.
+
+La diferencia entre la etapa industrial y la etapa abierta puede resumirse así:
+
+| Aspecto | FDM industrial de Stratasys | FFF abierto / RepRap / primeras MakerBot |
+|---|---|---|
+| Mercado inicial | Empresas, ingeniería profesional, prototipado industrial | Makers, universidades, hackerspaces, FabLabs |
+| Precio típico | Decenas o cientos de miles de USD | Cientos a pocos miles de USD |
+| Materiales | Propietarios o controlados | Filamento genérico, experimentación comunitaria |
+| Software | Cerrado o asociado a la máquina | Firmware y slicers abiertos o comunitarios |
+| Mantenimiento | Servicio técnico profesional | Autorreparación, documentación y foros |
+| Valor principal | Confiabilidad industrial | Acceso, aprendizaje, modificación y bajo costo |
+| Riesgo técnico | Menor para el usuario final | Mayor calibración y aprendizaje |
+
+Esta comparación explica por qué ambos mundos pudieron coexistir. El escritorio abierto no ofrecía la misma confiabilidad que un equipo industrial, pero permitía aprender, modificar y fabricar a una fracción del costo. Para la cultura FabLab, ese intercambio era aceptable e incluso valioso: la máquina no era una caja negra, sino un objeto técnico que podía estudiarse.
 
 <div class="placeholder">
 <strong>Espacio sugerido para tabla visual:</strong> comparación de costos aproximados: SLA-1, Stratasys Dimension, MakerBot Cupcake, Thing-O-Matic, Prusa i3, Ender 3, Bambu A1. Archivo sugerido: <code>assets/img/historia/costos-evolucion.png</code>.
@@ -512,6 +554,8 @@ Marcas como **Bambu Lab** aceleraron esta expectativa. Prusa mantiene una cultur
 
 Democratizar no significa que todo sea fácil ni que cualquier pieza sea imprimible sin criterio. Significa que más personas pueden participar en el ciclo de diseño-fabricación.
 
+En el caso de FDM/FFF, la democratización dependió de una condición histórica muy concreta: el conocimiento técnico empezó a circular cuando la patente base dejó de bloquear el principio general, y la comunidad desarrolló soluciones alternativas para lo que seguía protegido o cerrado. RepRap y MakerBot no solo abarataron máquinas; cambiaron la relación del usuario con la tecnología. El usuario dejó de ser únicamente comprador de un equipo y pasó a ser constructor, reparador, diseñador, documentador y miembro de una comunidad de aprendizaje.
+
 La democratización ocurrió por varias capas:
 
 1. **Máquinas más baratas**: de cientos de miles de dólares a cientos de dólares.
@@ -559,20 +603,23 @@ La impresión 3D se volvió interesante no porque todas las personas vayan a fab
 [2] 3D Systems, “Stereolithography.”  
 [3] Charles W. Hull, US Patent US4575330A, “Apparatus for production of three-dimensional objects by stereolithography.”  
 [4] Stratasys, US Patent US5121329A, “Apparatus and method for creating three-dimensional objects.”  
-[5] Stratasys, “Stratasys Celebrates 10-Year Anniversary of Industry's First Office 3D Printer.”  
-[6] Stratasys Support, “Dimension Family 3D Printers Support.”  
-[7] Science Museum Group, “Darwin RepRap self-replicating 3D printer.”  
-[8] RepRap Project, “About RepRap.”  
-[9] Wired, “3-D Printers Make Manufacturing Accessible.”  
-[10] Wired, “Shapeways interviews MakerBot.”  
-[11] Wired, “Portable and Affordable: New 3-D Printers That Cost Less Than $500.”  
-[12] University of Texas at Austin, “Selective Laser Sintering, From a Texas Idea to a Global Industry.”  
-[13] 3D Systems, “Reinventing Metal Additive Technology.”  
-[14] Formlabs, “Form 4 vs. Form 3/+.”  
-[15] Prusa Knowledge Base, “FAQ - Frequently Asked Questions.”  
-[16] Bambu Lab, “A1 Tech Specs.”  
-[17] Creality, “Ender-3 V3 SE.”  
-[18] MakerWorld, Thingiverse, Printables y otros repositorios comunitarios de modelos 3D.
+[5] Prusa Knowledge Base, “FFF/FDM.”  
+[6] UltiMaker, “FDM vs FFF: Understanding 3D printing technologies.”  
+[7] MakerBot, “History of 3D Printing.”  
+[8] Stratasys, “Stratasys Celebrates 10-Year Anniversary of Industry's First Office 3D Printer.”  
+[9] Stratasys Support, “Dimension Family 3D Printers Support.”  
+[10] Science Museum Group, “Darwin RepRap self-replicating 3D printer.”  
+[11] RepRap Project, “About RepRap.”  
+[12] Wired, “3-D Printers Make Manufacturing Accessible.”  
+[13] Wired, “Shapeways interviews MakerBot.”  
+[14] Wired, “Portable and Affordable: New 3-D Printers That Cost Less Than $500.”  
+[15] University of Texas at Austin, “Selective Laser Sintering, From a Texas Idea to a Global Industry.”  
+[16] 3D Systems, “Reinventing Metal Additive Technology.”  
+[17] Formlabs, “Form 4 vs. Form 3/+.”  
+[18] Prusa Knowledge Base, “FAQ - Frequently Asked Questions.”  
+[19] Bambu Lab, “A1 Tech Specs.”  
+[20] Creality, “Ender-3 V3 SE.”  
+[21] MakerWorld, Thingiverse, Printables y otros repositorios comunitarios de modelos 3D.
 
 ## Siguiente sección
 
