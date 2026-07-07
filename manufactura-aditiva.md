@@ -12,7 +12,6 @@ La impresión 3D es el nombre popular de una familia de procesos de fabricación
 
 ![manufactura aditiva](assets/img/intro/aditiva-sustractiva-moldeo.png)
 
-
 Una pieza impresa en 3D se construye por capas. El software divide el modelo en secciones horizontales muy delgadas y la máquina ejecuta esas secciones una por una. La acumulación de capas produce el volumen completo:
 
 - La pieza queda condicionada por la dirección en la que se fabrican las capas.
@@ -52,32 +51,25 @@ Aunque existen diferentes tecnologías de impresión 3D, el flujo general suele 
 ![flujo](assets/img/intro/flujo-impresion.png)
 
 ### 1.Idea o necesidad
-
 Intención de fabricar una pieza, representar una geometría, resolver una necesidad, reparar un objeto, crear un prototipo o producir un modelo didáctico.
 
 
 ### 2.Modelo digital
-
 La pieza debe existir como modelo tridimensional. Puede diseñarse en CAD, descargarse de un repositorio, obtenerse por escaneo 3D o generarse con apoyo de inteligencia artificial. El modelo digital debe tener forma, escala y volumen. Para impresión 3D no basta que un objeto se vea bien en pantalla: debe poder interpretarse como un sólido fabricable.
 
 ### 3.Archivo imprimible
-
 El modelo se exporta normalmente como **STL, OBJ o 3MF**. Estos formatos describen la geometría de la pieza, generalmente como una malla formada por triángulos.
 
 ### 4.Laminado
-
 El software laminador, también llamado slicer, divide el modelo en capas y genera las trayectorias que la impresora debe seguir. En este paso se definen parámetros como altura de capa, porcentaje de relleno, temperatura, soportes, velocidad y orientación.
 
 ### 5.Impresión
-
 La máquina ejecuta las instrucciones. En FDM, deposita filamento fundido. En resina, solidifica un fotopolímero. En SLS, fusiona polvo. Aunque la lógica de control varía, todas las tecnologías comparten la idea de construir la pieza a partir de información digital.
 
 ### 6.Postprocesado
-
 Después de imprimir, puede ser necesario retirar soportes, lijar, curar, lavar, ensamblar, insertar tornillos, pintar o verificar dimensiones.
 
 ### 7.Evaluación
-
 La pieza se revisa de acuerdo con su propósito: apariencia, dimensiones, ajuste, resistencia, flexibilidad, ergonomía o función mecánica.
 
 
