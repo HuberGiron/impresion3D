@@ -49,9 +49,7 @@ El valor de la impresión 3D en un FabLab está en cinco aspectos:
 
 Aunque existen diferentes tecnologías de impresión 3D, el flujo general suele mantener una estructura común:
 
-```text
-Idea → Modelo 3D → Archivo imprimible → Laminado → Impresión → Postprocesado → Evaluación
-```
+![flujo](assets/img/intro/flujo-impresion.png)
 
 ### 1.Idea o necesidad
 
