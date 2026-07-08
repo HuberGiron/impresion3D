@@ -24,7 +24,7 @@ La patente describe un sistema para fabricar objetos tridimensionales creando pa
 
 <figure class="history-figure history-figure--wide">
   <img src="{{ '/assets/img/historia/1984-sla-patent-diagram.webp' | relative_url }}" alt="Diagrama histórico de estereolitografía" loading="lazy">
-  <figcaption>Figura H1. Diagrama histórico asociado al principio de estereolitografía. Fuente: [I1].</figcaption>
+  <figcaption>Figura 1. Diagrama histórico asociado al principio de estereolitografía. Fuente: [26].</figcaption>
 </figure>
 
 **3D Systems fue fundada en 1986** y comercializó la tecnología SLA en el ambiente industrial. La **SLA-1**, enviada comercialmente a finales de los años ochenta, se convirtió en uno de los símbolos del inicio de la impresión 3D como industria.
@@ -37,7 +37,7 @@ La patente describe un sistema para fabricar objetos tridimensionales creando pa
 
 <figure class="history-figure history-figure--small">
   <img src="{{ '/assets/img/historia/1987-sla-1.webp' | relative_url }}" alt="Impresora SLA-1 de 3D Systems" loading="lazy">
-  <figcaption>Figura H2. Equipo SLA-1 de 3D Systems, símbolo de la primera etapa comercial de la impresión 3D. Fuente: [I2].</figcaption>
+  <figcaption>Figura 2. Equipo SLA-1 de 3D Systems, símbolo de la primera etapa comercial de la impresión 3D. Fuente: [27].</figcaption>
 </figure>
 
 ## 1987–1992: Tecnología SLS(Selective Laser Sintering) y FDM(Fused Deposition Modeling)
@@ -46,7 +46,7 @@ El **Sinterizado Selectivo por Láser** o **SLS** fue desarrollado por Carl Deck
 
 <figure class="history-figure history-figure--wide">
   <img src="{{ '/assets/img/historia/1989-sls-parts.webp' | relative_url }}" alt="Piezas fabricadas por SLS" loading="lazy">
-  <figcaption>Figura H3. Piezas históricas asociadas al desarrollo de SLS y prototipado rápido funcional. Fuente: [I3].</figcaption>
+  <figcaption>Figura 3. Piezas históricas asociadas al desarrollo de SLS y prototipado rápido funcional. Fuente: [28].</figcaption>
 </figure>
 
 La tecnología fue comercializada por **DTM Corporation**, empresa que después sería adquirida por 3D Systems en 2001. SLS se volvió muy importante porque permitió fabricar piezas funcionales, especialmente en polímeros como nylon, sin requerir soportes tradicionales: el polvo no sinterizado sostiene la pieza durante la fabricación.
@@ -63,7 +63,7 @@ La tecnología que más tarde dominaría la impresión 3D de escritorio fue **FD
 
 <figure class="history-figure history-figure--wide">
   <img src="{{ '/assets/img/historia/1992-fdm-patent-diagram.webp' | relative_url }}" alt="Diagrama de patente FDM" loading="lazy">
-  <figcaption>Figura H4. Diagrama técnico relacionado con la patente base de FDM. Fuente: [I4].</figcaption>
+  <figcaption>Figura 4. Diagrama técnico relacionado con la patente base de FDM. Fuente: [29].</figcaption>
 </figure>
 
 FDM utiliza filamento termoplástico, lo calienta y lo deposita capa por capa. En el mundo abierto y maker también se usa el término **FFF** (*Fused Filament Fabrication*), especialmente para evitar el uso de una marca registrada asociada a Stratasys.
@@ -74,7 +74,7 @@ En 1992 Stratasys vendió su primera impresora FDM, la **3D Modeler**. A diferen
 
 <figure class="history-figure history-figure--small">
   <img src="{{ '/assets/img/historia/1992-stratasys-3d-modeler.jpg' | relative_url }}" alt="Stratasys 3D Modeler" loading="lazy">
-  <figcaption>Figura H5. Stratasys 3D Modeler, uno de los primeros equipos comerciales FDM. Fuente: [I5].</figcaption>
+  <figcaption>Figura 5. Stratasys 3D Modeler, uno de los primeros equipos comerciales FDM. Fuente: [30].</figcaption>
 </figure>
 
 ## 1993–2000: prototipado rápido, Z Corporation e impresión más rápida
@@ -87,7 +87,7 @@ La base técnica de este proceso se relaciona con el trabajo de **Emanuel Sachs,
 
 <figure class="history-figure history-figure--wide">
   <img src="{{ '/assets/img/historia/binder-jetting-process.webp' | relative_url }}" alt="Esquema de binder jetting" loading="lazy">
-  <figcaption>Figura H6. Esquema del proceso de binder jetting sobre cama de polvo. Fuente: [I6].</figcaption>
+  <figcaption>Figura 6. Esquema del proceso de binder jetting sobre cama de polvo. Fuente: [31].</figcaption>
 </figure>
 
 **Tipo de usuario de Z Corp:** diseño de producto;
@@ -103,7 +103,7 @@ Un salto relevante ocurrió en 2002 con la familia **Dimension** de Stratasys. L
 
 <figure class="history-figure history-figure--tall">
   <img src="{{ '/assets/img/historia/2002-stratasys-dimension-1200es.jpg' | relative_url }}" alt="Stratasys Dimension 1200es" loading="lazy">
-  <figcaption>Figura H7. Stratasys Dimension 1200es, representante de la etapa de impresoras FDM profesionales de oficina técnica. Fuente: [I7].</figcaption>
+  <figcaption>Figura 7. Stratasys Dimension 1200es, representante de la etapa de impresoras FDM profesionales de oficina técnica. Fuente: [32].</figcaption>
 </figure>
 
 El valor de Dimension fue acercar FDM a oficinas de ingeniería y diseño que no podían adquirir una plataforma industrial de cientos de miles de dólares.
@@ -126,7 +126,7 @@ En **2008**, el modelo **RepRap Darwin** alcanzó un hito simbólico: una máqui
 
 <figure class="history-figure history-figure--wide">
   <img src="{{ '/assets/img/historia/2008-reprap-darwin-parent-child.jpg' | relative_url }}" alt="Adrian Bowyer y RepRap Darwin" loading="lazy">
-  <figcaption>Figura H8. Adrian Bowyer y Vik Olliver con impresoras RepRap en lógica de máquina padre-hija. Fuente: [I8].</figcaption>
+  <figcaption>Figura 8. Adrian Bowyer y Vik Olliver con impresoras RepRap en lógica de máquina padre-hija. Fuente: [33].</figcaption>
 </figure>
 
 RepRap cambió tres cosas al mismo tiempo:
@@ -149,7 +149,7 @@ Las máquinas RepRap tampoco eran copias directas de equipos Stratasys. Las impr
 
 <figure class="history-figure history-figure--wide">
   <img src="{{ '/assets/img/historia/iberoprint.jpg' | relative_url }}" alt="Impresora 3D en contexto FabLab" loading="lazy">
-  <figcaption>Figura H9. Imagen local del curso para ilustrar una impresora 3D en contexto educativo/FabLab. Fuente: [I9].</figcaption>
+  <figcaption>Figura 9. Imagen local del curso para ilustrar una impresora 3D en contexto educativo/FabLab. Fuente: [34].</figcaption>
 </figure>
 
 La diferencia de mercado fue importante: Stratasys vendía confiabilidad industrial; RepRap promovía acceso, aprendizaje y fabricación distribuida. Uno vendía soluciones profesionales cerradas; el otro construía una comunidad técnica abierta. En esa primera etapa no estaban atendiendo al mismo usuario.
@@ -173,7 +173,7 @@ La **MakerBot Cupcake CNC** fue una de las primeras impresoras 3D de escritorio 
 
 <figure class="history-figure history-figure--small">
   <img src="{{ '/assets/img/historia/2009-makerbot-cupcake-cnc.jpg' | relative_url }}" alt="MakerBot Cupcake CNC" loading="lazy">
-  <figcaption>Figura H10. MakerBot Cupcake CNC, una de las impresoras de escritorio maker más visibles de 2009. Fuente: [I10].</figcaption>
+  <figcaption>Figura 10. MakerBot Cupcake CNC, una de las impresoras de escritorio maker más visibles de 2009. Fuente: [35].</figcaption>
 </figure>
 
 MakerBot también impulsó **Thingiverse**, una plataforma para compartir archivos imprimibles. Esto fue tan importante como la máquina. Una impresora 3D sin modelos es una herramienta incompleta; un repositorio abierto reduce la barrera de entrada porque permite iniciar desde piezas existentes.
@@ -187,7 +187,7 @@ En un FabLab, esta idea es central: la fabricación digital no solo depende de m
 
 <figure class="history-figure history-figure--wide">
   <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/3D-printing-organizer-small-parts-storage.jpg" alt="Ejemplo de modelo compartido en Thingiverse" loading="lazy">
-  <figcaption>Figura H11. Ejemplo de modelo compartido en Thingiverse y cultura de repositorios. Fuente: [I11].</figcaption>
+  <figcaption>Figura 11. Ejemplo de modelo compartido en Thingiverse y cultura de repositorios. Fuente: [36].</figcaption>
 </figure>
 
 MakerBot inició con una identidad cercana a RepRap: kits, documentación, comunidad y cultura abierta. Sin embargo, al crecer, la empresa empezó a moverse hacia productos más cerrados y orientados a consumidores, educación y oficinas. Ese giro produjo tensiones con parte de la comunidad maker, porque muchos usuarios habían participado bajo expectativas de apertura, modificación y reciprocidad.
@@ -206,7 +206,7 @@ La **Prusa i3**, publicada alrededor de 2012, se convirtió en una de las arquit
 
 <figure class="history-figure history-figure--tall">
   <img src="{{ '/assets/img/historia/2012-prusa-i3-mk2.jpg' | relative_url }}" alt="Original Prusa i3 MK2" loading="lazy">
-  <figcaption>Figura H12. Original Prusa i3 MK2, representante de la arquitectura Prusa i3 derivada de RepRap. Fuente: [I12].</figcaption>
+  <figcaption>Figura 12. Original Prusa i3 MK2, representante de la arquitectura Prusa i3 derivada de RepRap. Fuente: [37].</figcaption>
 </figure>
 
 **Ultimaker**, nacida en Países Bajos, llevó el enfoque open source hacia una máquina de escritorio más pulida. La **Ultimaker Original**, lanzada en 2011 como kit, ofrecía un volumen de construcción aproximado de **210 × 210 × 205 mm** y se hizo conocida por velocidad, precisión y un ecosistema de software que después se consolidaría con Cura.
@@ -215,7 +215,7 @@ La **Ultimaker 2**, de 2013, se orientó a usuarios más profesionales: diseñad
 
 <figure class="history-figure history-figure--tall">
   <img src="{{ '/assets/img/historia/2013-ultimaker-2-connect.webp' | relative_url }}" alt="UltiMaker 2+ Connect" loading="lazy">
-  <figcaption>Figura H13. UltiMaker 2+ Connect, heredera de la familia Ultimaker 2 orientada a escritorio profesional y educación. Fuente: [I13].</figcaption>
+  <figcaption>Figura 13. UltiMaker 2+ Connect, heredera de la familia Ultimaker 2 orientada a escritorio profesional y educación. Fuente: [38].</figcaption>
 </figure>
 
 El abaratamiento se explica por combinación de:
@@ -263,7 +263,7 @@ A diferencia de FDM, donde el usuario podía modificar mucho la máquina, Formla
 
 <figure class="history-figure history-figure--tall">
   <img src="{{ '/assets/img/historia/2012-formlabs-form-1-plus.jpg' | relative_url }}" alt="Formlabs Form 1+" loading="lazy">
-  <figcaption>Figura H14. Formlabs Form 1+, ejemplo de la entrada de SLA de escritorio profesional. Fuente: [I14].</figcaption>
+  <figcaption>Figura 14. Formlabs Form 1+, ejemplo de la entrada de SLA de escritorio profesional. Fuente: [39].</figcaption>
 </figure>
 
 La familia **Ender 3** de Creality se volvió una referencia de entrada por precio. Aunque requiere ajustes y aprendizaje, ofreció un volumen útil, comunidad enorme y bajo costo. Modelos más recientes como **Ender-3 V3 SE** ofrecen volumen de construcción de **220 × 220 × 250 mm** y funciones que antes eran más avanzadas, como nivelación automática y velocidades más altas.
@@ -271,7 +271,7 @@ El impacto de Creality fue llevar la impresión FDM al usuario de bajo presupues
 
 <figure class="history-figure history-figure--wide">
   <img src="{{ '/assets/img/historia/2018-creality-ender-3-v3-se.jpg' | relative_url }}" alt="Creality Ender-3 V3 SE" loading="lazy">
-  <figcaption>Figura H15. Creality Ender-3 V3 SE como referencia de impresora FDM económica y popular. Fuente: [I15].</figcaption>
+  <figcaption>Figura 15. Creality Ender-3 V3 SE como referencia de impresora FDM económica y popular. Fuente: [40].</figcaption>
 </figure>
 
 ## 2020: pandemia, fabricación distribuida y límites reales
@@ -280,7 +280,7 @@ La pandemia de COVID-19 mostró una cara importante de la impresión 3D: su capa
 
 <figure class="history-figure history-figure--wide">
   <img src="https://media.defense.gov/2020/May/14/2002299942/825/780/0/200420-A-HF386-1000M.JPG" alt="Caretas fabricadas durante COVID-19" loading="lazy">
-  <figcaption>Figura H16. Caretas y componentes impresos en 3D durante la respuesta a COVID-19. Fuente: [I16].</figcaption>
+  <figcaption>Figura 16. Caretas y componentes impresos en 3D durante la respuesta a COVID-19. Fuente: [41].</figcaption>
 </figure>
 
 Sin embargo, también se hicieron evidentes los límites:
@@ -301,7 +301,7 @@ La **Original Prusa MK4S** representa la continuidad del enfoque abierto y docum
 
 <figure class="history-figure history-figure--wide">
   <img src="{{ '/assets/img/historia/2024-prusa-mk4.jpg' | relative_url }}" alt="Original Prusa MK4" loading="lazy">
-  <figcaption>Figura H17. Original Prusa MK4 como referencia visual de la familia MK4/MK4S. Fuente: [I17].</figcaption>
+  <figcaption>Figura 17. Original Prusa MK4 como referencia visual de la familia MK4/MK4S. Fuente: [42].</figcaption>
 </figure>
 
 **Fortalezas:** documentación sólida; comunidad; confiabilidad; reparabilidad; ecosistema abierto; perfiles de impresión maduros.
@@ -312,7 +312,7 @@ La **Original Prusa MK4S** representa la continuidad del enfoque abierto y docum
 
 <figure class="history-figure history-figure--tall">
   <img src="https://www.3dmarket.mx/wp-content/uploads/2024/02/Bambu-Lab-A1-es-una-impresora-3D-de-escritorio.webp" alt="Bambu Lab A1" loading="lazy">
-  <figcaption>Figura H18. Bambu Lab A1 como referencia de impresora FDM moderna con experiencia de usuario integrada. Fuente: [I18].</figcaption>
+  <figcaption>Figura 18. Bambu Lab A1 como referencia de impresora FDM moderna con experiencia de usuario integrada. Fuente: [43].</figcaption>
 </figure>
 
 **Tipo de usuario:** educación; FabLabs; prototipado; usuarios de escritorio; talleres que necesitan resultados rápidos; personas que no quieren construir la máquina desde cero.
@@ -321,7 +321,7 @@ En el campo de resina, **Formlabs Form 4** representa la madurez de la fotopolim
 
 <figure class="history-figure history-figure--tall">
   <img src="{{ '/assets/img/historia/2024-formlabs-form-4.webp' | relative_url }}" alt="Formlabs Form 4" loading="lazy">
-  <figcaption>Figura H19. Formlabs Form 4, representante de resina profesional de escritorio. Fuente: [I19].</figcaption>
+  <figcaption>Figura 19. Formlabs Form 4, representante de resina profesional de escritorio. Fuente: [44].</figcaption>
 </figure>
 
 **Usuarios típicos:** odontología; joyería; diseño de producto; laboratorios; ingeniería; modelos de alta resolución.
@@ -346,32 +346,6 @@ La democratización ocurrió por varias capas:
 En un FabLab, la impresora 3D no es solo una máquina que deposita plástico: es una puerta de entrada para entender materiales, geometría, tolerancias, mecanismos, electrónica, ergonomía y fabricación local.
 
 -----------------
-
-## Créditos de imágenes
-
-Las imágenes de este capítulo se usan como apoyo visual histórico y técnico. Cuando fue posible se descargaron al repositorio en <code>assets/img/historia/</code> para evitar dependencias externas y controlar su tamaño en pantalla. Las fuentes originales se conservan como crédito y referencia.
-
-| ID | Imagen | Fuente / crédito | Archivo local |
-|---|---|---|---|
-| I1 | Diagrama histórico de estereolitografía | [3D Systems](https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1984_1.jpg.webp) | `assets/img/historia/1984-sla-patent-diagram.webp` |
-| I2 | SLA-1 | [3D Systems](https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1987_0.jpg.webp) | `assets/img/historia/1987-sla-1.webp` |
-| I3 | Piezas asociadas a SLS | [3D Systems](https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1989.jpg.webp) | `assets/img/historia/1989-sls-parts.webp` |
-| I4 | Diagrama de patente FDM | [TriMech / imagen de patente US5121329](https://mfg.trimech.com/wp-content/uploads/2022/07/FDM20process-1-1.png) | `assets/img/historia/1992-fdm-patent-diagram.webp` |
-| I5 | Stratasys 3D Modeler | [GoEngineer](https://cdn.goengineer.com/stratasys_1st_3d_printer_3d_modeler.jpg) | `assets/img/historia/1992-stratasys-3d-modeler.jpg` |
-| I6 | Proceso binder jetting | [Dassault Systèmes](https://www.3ds.com/assets/invest/styles/banner/public/2021-12/f_processadditive_binderjetting2x-1.png.webp) | `assets/img/historia/binder-jetting-process.webp` |
-| I7 | Stratasys Dimension 1200es | [Treatstock](https://www.treatstock.com/static/uploads/printers/Stratasys-Dimension-1200es-3D-Printer.jpg) | `assets/img/historia/2002-stratasys-dimension-1200es.jpg` |
-| I8 | RepRap Darwin padre-hija | [3Druck](https://3druck.com/wp-content/uploads/2014/08/Vik_Oliver-Adrian_Bowyer_RepRap.jpg) | `assets/img/historia/2008-reprap-darwin-parent-child.jpg` |
-| I9 | Impresora 3D en contexto FabLab | Archivo local del curso / imagen propia | `assets/img/historia/iberoprint.jpg` |
-| I10 | MakerBot Cupcake CNC | [BigCommerce CDN / producto histórico](https://cdn11.bigcommerce.com/s-a1x7hg2jgk/images/stencil/1280x1280/products/43169/433639/MakerBot-Cupcake-CNC-3D-Printer-with-Plastruder-MK4-Extruder_211233__00090.1708467217.jpg) | `assets/img/historia/2009-makerbot-cupcake-cnc.jpg` |
-| I11 | Ejemplo de modelo en Thingiverse | [MakeUseOf](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/3D-printing-organizer-small-parts-storage.jpg) | Enlace externo conservado |
-| I12 | Original Prusa i3 MK2 | [Wikimedia Commons, Josef Prusa / GFDL 1.3](https://commons.wikimedia.org/wiki/File:Prusa_i3_MK2.jpg) | `assets/img/historia/2012-prusa-i3-mk2.jpg` |
-| I13 | UltiMaker 2+ Connect | [UltiMaker](https://ultimaker.com/3d-printers/s-series/ultimaker-2-connect/) | `assets/img/historia/2013-ultimaker-2-connect.webp` |
-| I14 | Formlabs Form 1+ | [Treatstock](https://www.treatstock.com/static/uploads/3Dprinter_Form-1Plus_3.jpg) | `assets/img/historia/2012-formlabs-form-1-plus.jpg` |
-| I15 | Creality Ender-3 V3 SE | [Creality](https://www.creality.com/products/creality-ender-3-v3-se) | `assets/img/historia/2018-creality-ender-3-v3-se.jpg` |
-| I16 | Caretas durante COVID-19 | [U.S. Department of Defense](https://media.defense.gov/2020/May/14/2002299942/825/780/0/200420-A-HF386-1000M.JPG) | Enlace externo conservado |
-| I17 | Original Prusa MK4 | [Wikimedia Commons, Majkluss / CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Prusa_MK4.jpg) | `assets/img/historia/2024-prusa-mk4.jpg` |
-| I18 | Bambu Lab A1 | [3D Market México](https://www.3dmarket.mx/wp-content/uploads/2024/02/Bambu-Lab-A1-es-una-impresora-3D-de-escritorio.webp) | Enlace externo conservado |
-| I19 | Formlabs Form 4 | [TriMech](https://mfg.trimech.com/wp-content/uploads/2024/04/formlabs-form-4-open-1117x1536.webp) | `assets/img/historia/2024-formlabs-form-4.webp` |
 
 ## Referencias
 
@@ -401,6 +375,25 @@ Las imágenes de este capítulo se usan como apoyo visual histórico y técnico.
 [23] Massachusetts Institute of Technology, “Printing off the paper.”  
 [24] Massachusetts Institute of Technology, **[US Patent US5204055A](https://patents.google.com/patent/US5204055A/en)**, “Three-dimensional printing techniques.”  
 [25] Massachusetts Institute of Technology, **[US Patent US5340656A](https://patents.google.com/patent/US5340656A/en)**, “Three-dimensional printing techniques.”  
+[26] 3D Systems, imagen histórica asociada a estereolitografía, `1984_1.jpg.webp`. Fuente original: <https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1984_1.jpg.webp>.  
+[27] 3D Systems, imagen histórica de equipo SLA-1, `1987_0.jpg.webp`. Fuente original: <https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1987_0.jpg.webp>.  
+[28] 3D Systems, imagen histórica asociada a piezas SLS, `1989.jpg.webp`. Fuente original: <https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1989.jpg.webp>.  
+[29] TriMech, diagrama de proceso FDM basado en patente, `FDM20process-1-1.png`. Fuente original: <https://mfg.trimech.com/wp-content/uploads/2022/07/FDM20process-1-1.png>.  
+[30] GoEngineer, imagen histórica de Stratasys 3D Modeler. Fuente original: <https://cdn.goengineer.com/stratasys_1st_3d_printer_3d_modeler.jpg>.  
+[31] Dassault Systèmes, esquema de proceso additive binder jetting. Fuente original: <https://www.3ds.com/assets/invest/styles/banner/public/2021-12/f_processadditive_binderjetting2x-1.png.webp>.  
+[32] Treatstock, imagen de Stratasys Dimension 1200es. Fuente original: <https://www.treatstock.com/static/uploads/printers/Stratasys-Dimension-1200es-3D-Printer.jpg>.  
+[33] 3Druck, fotografía de Vik Olliver y Adrian Bowyer con RepRap. Fuente original: <https://3druck.com/wp-content/uploads/2014/08/Vik_Oliver-Adrian_Bowyer_RepRap.jpg>.  
+[34] Archivo local del curso, imagen propia de impresora 3D en contexto educativo/FabLab, `assets/img/historia/iberoprint.jpg`.  
+[35] BigCommerce CDN, imagen de MakerBot Cupcake CNC con Plastruder MK4. Fuente original: <https://cdn11.bigcommerce.com/s-a1x7hg2jgk/images/stencil/1280x1280/products/43169/433639/MakerBot-Cupcake-CNC-3D-Printer-with-Plastruder-MK4-Extruder_211233__00090.1708467217.jpg>.  
+[36] MakeUseOf, imagen de ejemplo de modelo/organizador para impresión 3D. Fuente original: <https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/3D-printing-organizer-small-parts-storage.jpg>.  
+[37] Wikimedia Commons, Josef Prusa, imagen de Original Prusa i3 MK2, licencia GFDL 1.3. Fuente original: <https://commons.wikimedia.org/wiki/File:Prusa_i3_MK2.jpg>.  
+[38] UltiMaker, imagen de UltiMaker 2+ Connect. Fuente original: <https://ultimaker.com/3d-printers/s-series/ultimaker-2-connect/>.  
+[39] Treatstock, imagen de Formlabs Form 1+. Fuente original: <https://www.treatstock.com/static/uploads/3Dprinter_Form-1Plus_3.jpg>.  
+[40] Creality, imagen de Ender-3 V3 SE. Fuente original: <https://www.creality.com/products/creality-ender-3-v3-se>.  
+[41] U.S. Department of Defense, fotografía de caretas/componentes impresos durante la respuesta a COVID-19. Fuente original: <https://media.defense.gov/2020/May/14/2002299942/825/780/0/200420-A-HF386-1000M.JPG>.  
+[42] Wikimedia Commons, Majkluss, imagen de Original Prusa MK4, licencia CC BY-SA 4.0. Fuente original: <https://commons.wikimedia.org/wiki/File:Prusa_MK4.jpg>.  
+[43] 3D Market México, imagen de Bambu Lab A1. Fuente original: <https://www.3dmarket.mx/wp-content/uploads/2024/02/Bambu-Lab-A1-es-una-impresora-3D-de-escritorio.webp>.  
+[44] TriMech, imagen de Formlabs Form 4. Fuente original: <https://mfg.trimech.com/wp-content/uploads/2024/04/formlabs-form-4-open-1117x1536.webp>.  
 
 -----------------
 
