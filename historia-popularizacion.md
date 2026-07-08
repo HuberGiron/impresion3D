@@ -20,7 +20,7 @@ La tecnología que normalmente se reconoce como la primera impresión 3D comerci
 
 La patente describe un sistema para fabricar objetos tridimensionales creando patrones de sección transversal sobre un medio líquido capaz de cambiar de estado físico, por ejemplo una resina curable con luz ultravioleta. Las capas sucesivas se integran entre sí hasta formar el objeto completo. Convertir secciones digitales en capas físicas sigue siendo la base conceptual de la impresión 3D actual.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1984_1.jpg.webp)
 
 **3D Systems fue fundada en 1986** y comercializó la tecnología SLA en el ambiente industrial. La **SLA-1**, enviada comercialmente a finales de los años ochenta, se convirtió en uno de los símbolos del inicio de la impresión 3D como industria.
 
@@ -30,11 +30,7 @@ La patente describe un sistema para fabricar objetos tridimensionales creando pa
 
 **Costo aproximado:** Las primeras impresoras 3D industriales se encontraban en rangos de cientos de miles de dólares. Algunas fuentes históricas ubican equipos de los años ochenta en el orden de **300,000 a 400,000 USD**, sin considerar materiales, mantenimiento, software, instalación ni capacitación. La impresión 3D nació como tecnología de alto costo.
 
-![flujo](assets/img/intro/flujo-impresion.png)
-
-<div class="placeholder">
-<strong>Espacio sugerido para imagen histórica:</strong> 3D Systems SLA-1 o diagrama de estereolitografía con tanque de resina, láser UV y plataforma móvil. Archivo sugerido: <code>assets/img/historia/sla-1.png</code>.
-</div>
+![flujo](https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1987_0.jpg.webp)
 
 ## 1987–1992: Tecnología SLS(Selective Laser Sintering) y FDM(Fused Deposition Modeling)
 
