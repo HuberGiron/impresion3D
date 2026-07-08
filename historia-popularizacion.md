@@ -36,7 +36,7 @@ La patente describe un sistema para fabricar objetos tridimensionales creando pa
 
 El **Sinterizado Selectivo por Láser** o **SLS** fue desarrollado por Carl Deckard y Joe Beaman en la Universidad de Texas en Austin durante los años ochenta. Una patente estadounidense de **1989** representativa de esta familia tecnológica es **[US4863538A](https://patents.google.com/patent/US4863538A/en)**, *Method and apparatus for producing parts by selective sintering*. A diferencia de SLA, que utiliza resina líquida, SLS trabaja con polvo. Un láser sinteriza o fusiona selectivamente regiones de una cama de polvo, capa por capa.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://es.3dsystems.com/sites/default/files/styles/general_small/public/2017-01/1989.jpg.webp)
 
 La tecnología fue comercializada por **DTM Corporation**, empresa que después sería adquirida por 3D Systems en 2001. SLS se volvió muy importante porque permitió fabricar piezas funcionales, especialmente en polímeros como nylon, sin requerir soportes tradicionales: el polvo no sinterizado sostiene la pieza durante la fabricación.
 
@@ -50,7 +50,7 @@ SLS nunca se volvió una tecnología doméstica, pero sí fue una de las tecnolo
 
 La tecnología que más tarde dominaría la impresión 3D de escritorio fue **FDM** (*Fused Deposition Modeling*), patentada por Scott Crump y comercializada por **Stratasys**. La patente **[US5121329A](https://patents.google.com/patent/US5121329A/en)**, concedida en **1992**, describe un método y aparato para crear objetos tridimensionales mediante deposición controlada de material.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://mfg.trimech.com/wp-content/uploads/2022/07/FDM20process-1-1.pngg)
 
 FDM utiliza filamento termoplástico, lo calienta y lo deposita capa por capa. En el mundo abierto y maker también se usa el término **FFF** (*Fused Filament Fabrication*), especialmente para evitar el uso de una marca registrada asociada a Stratasys.
 
@@ -58,11 +58,7 @@ FDM utiliza filamento termoplástico, lo calienta y lo deposita capa por capa. E
 
 En 1992 Stratasys vendió su primera impresora FDM, la **3D Modeler**. A diferencia de SLA, FDM ofrecía una ruta con termoplásticos más familiares para ingeniería. La pieza no tenía el acabado de una pieza de resina, pero acercaba la impresión 3D a prototipos más robustos.
 
-![flujo](assets/img/intro/flujo-impresion.png)
-
-<div class="placeholder">
-<strong>Espacio sugerido para diagrama comparativo:</strong> SLA vs SLS vs FDM en los años noventa: resina, polvo y filamento. Archivo sugerido: <code>assets/img/historia/sla-sls-fdm.png</code>.
-</div>
+![flujo](https://cdn.goengineer.com/stratasys_1st_3d_printer_3d_modeler.jpg)
 
 ## 1993–2000: prototipado rápido, Z Corporation e impresión más rápida
 
@@ -72,7 +68,7 @@ Una empresa importante fue **Z Corporation**, fundada en 1994 a partir de tecnol
 
 La base técnica de este proceso se relaciona con el trabajo de **Emanuel Sachs, Michael Cima, John Haggerty y Paul Williams** en el MIT. Una patente clave es **[US5204055A](https://patents.google.com/patent/US5204055A/en)**, *Three-dimensional printing techniques*, concedida en **1993**. Esta patente describe la fabricación de componentes mediante la deposición de una primera capa de material poroso o polvo y la aplicación selectiva de un material aglutinante. Después, el proceso se repite capa por capa hasta formar el objeto, retirando finalmente el polvo no unido.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://www.3ds.com/assets/invest/styles/banner/public/2021-12/f_processadditive_binderjetting2x-1.png.webp)
 
 **Tipo de usuario de Z Corp:** diseño de producto;
 arquitectura; calzado; automotriz; laboratorios de visualización; empresas que necesitaban modelos físicos rápidos y visuales.
@@ -85,7 +81,7 @@ La importancia de Z Corp fue cultural y tecnológica: acercó la impresión 3D a
 
 Un salto relevante ocurrió en 2002 con la familia **Dimension** de Stratasys. La compañía presentó la **Dimension 3D Printer** a un precio de introducción de **29,900 USD**. Aunque hoy sigue pareciendo alto, en su momento fue importante porque bajó la barrera para diseñadores profesionales. Stratasys la presentó como una máquina confiable, compacta y relativamente simple de usar, aproximadamente a la mitad del costo de la siguiente impresora 3D de menor precio en ese momento.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://www.treatstock.com/static/uploads/printers/Stratasys-Dimension-1200es-3D-Printer.jpg)
 
 El valor de Dimension fue acercar FDM a oficinas de ingeniería y diseño que no podían adquirir una plataforma industrial de cientos de miles de dólares.
 
@@ -105,7 +101,7 @@ La idea central era radical para la época: *Si una impresora puede fabricar muc
 
 En **2008**, el modelo **RepRap Darwin** alcanzó un hito simbólico: una máquina RepRap imprimió las piezas plásticas necesarias para construir otra máquina funcional. El Science Museum Group describe a Darwin como la primera impresora 3D autorreplicante RepRap y señala que los diseños y software eran open source, libres para descargarse y usarse.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://3druck.com/wp-content/uploads/2014/08/Vik_Oliver-Adrian_Bowyer_RepRap.jpg)
 
 RepRap cambió tres cosas al mismo tiempo:
 1. **El costo**: muchas piezas podían imprimirse o conseguirse en ferreterías, tiendas de electrónica o proveedores comunes.
@@ -125,7 +121,7 @@ También fue importante el uso del término **FFF** (*Fused Filament Fabrication
 
 Las máquinas RepRap tampoco eran copias directas de equipos Stratasys. Las impresoras industriales usaban cámaras, materiales propietarios, sistemas de soporte, control térmico, software y servicios profesionales. Las RepRap usaban varillas, motores paso a paso, electrónica de bajo costo, firmware abierto, hotends simples, piezas imprimibles y materiales genéricos. Eran más limitadas, pero también más comprensibles, reparables y modificables.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](assets/img/historia/iberoprint.jpg)
 
 La diferencia de mercado fue importante: Stratasys vendía confiabilidad industrial; RepRap promovía acceso, aprendizaje y fabricación distribuida. Uno vendía soluciones profesionales cerradas; el otro construía una comunidad técnica abierta. En esa primera etapa no estaban atendiendo al mismo usuario.
 
@@ -146,7 +142,7 @@ La **MakerBot Cupcake CNC** fue una de las primeras impresoras 3D de escritorio 
 - Materiales: principalmente ABS y otros termoplásticos experimentales.
 - Usuario objetivo: makers, artistas tecnológicos, diseñadores, ingenieros curiosos, hackerspaces, usuarios DIY.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://cdn11.bigcommerce.com/s-a1x7hg2jgk/images/stencil/1280x1280/products/43169/433639/MakerBot-Cupcake-CNC-3D-Printer-with-Plastruder-MK4-Extruder_211233__00090.1708467217.jpg)
 
 MakerBot también impulsó **Thingiverse**, una plataforma para compartir archivos imprimibles. Esto fue tan importante como la máquina. Una impresora 3D sin modelos es una herramienta incompleta; un repositorio abierto reduce la barrera de entrada porque permite iniciar desde piezas existentes.
 
@@ -157,7 +153,7 @@ Thingiverse ayudó a consolidar prácticas que siguen vigentes:
 - aprender de comentarios, fallas y fotografías de otros usuarios.
 En un FabLab, esta idea es central: la fabricación digital no solo depende de máquinas, sino de comunidades de archivos, documentación y aprendizaje colectivo.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/3D-printing-organizer-small-parts-storage.jpg)
 
 MakerBot inició con una identidad cercana a RepRap: kits, documentación, comunidad y cultura abierta. Sin embargo, al crecer, la empresa empezó a moverse hacia productos más cerrados y orientados a consumidores, educación y oficinas. Ese giro produjo tensiones con parte de la comunidad maker, porque muchos usuarios habían participado bajo expectativas de apertura, modificación y reciprocidad.
 
@@ -173,13 +169,13 @@ Josef Průša desarrolló variantes RepRap que simplificaron el diseño de impre
 
 La **Prusa i3**, publicada alrededor de 2012, se convirtió en una de las arquitecturas más influyentes de la impresión 3D FDM de escritorio: cama móvil, marco simple, componentes accesibles, electrónica abierta y una comunidad enorme. Muchos modelos económicos actuales derivan, directa o indirectamente, de esa arquitectura.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://es.wikipedia.org/wiki/Prusa_i3#/media/Archivo:Prusa_i3_MK2.jpg)
 
 **Ultimaker**, nacida en Países Bajos, llevó el enfoque open source hacia una máquina de escritorio más pulida. La **Ultimaker Original**, lanzada en 2011 como kit, ofrecía un volumen de construcción aproximado de **210 × 210 × 205 mm** y se hizo conocida por velocidad, precisión y un ecosistema de software que después se consolidaría con Cura.
 
 La **Ultimaker 2**, de 2013, se orientó a usuarios más profesionales: diseñadores, escuelas, bibliotecas, pequeñas empresas e ingenieros. Reportes de la época mencionan velocidades de 30–300 mm/s, resoluciones de capa de hasta 20 micras y volumen cercano a **225 × 225 × 205 mm**.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://www.3dmarket.mx/wp-content/uploads/2016/08/ultimaker-2-plus-frontal-3.jpg)
 
 El abaratamiento se explica por combinación de:
 - diseños RepRap abiertos;
@@ -224,18 +220,18 @@ Después de la primera ola maker, el mercado maduró. Las impresoras se volviero
 **Formlabs**, fundada en 2011, es relevante porque llevó la estereolitografía de escritorio a un público profesional más amplio. La **Form 1** fue financiada por Kickstarter en 2012 y abrió una ruta distinta a FDM: piezas de alta resolución, resina líquida, postcurado y aplicaciones en joyería, odontología, diseño de producto y prototipado visual.
 A diferencia de FDM, donde el usuario podía modificar mucho la máquina, Formlabs apostó por un ecosistema más controlado: impresora, resinas, software y perfiles integrados. Este camino mostró que la democratización también podía ocurrir mediante máquinas más fáciles de operar, no solo mediante hardware abierto.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://www.treatstock.com/static/uploads/3Dprinter_Form-1Plus_3.jpg)
 
 La familia **Ender 3** de Creality se volvió una referencia de entrada por precio. Aunque requiere ajustes y aprendizaje, ofreció un volumen útil, comunidad enorme y bajo costo. Modelos más recientes como **Ender-3 V3 SE** ofrecen volumen de construcción de **220 × 220 × 250 mm** y funciones que antes eran más avanzadas, como nivelación automática y velocidades más altas.
 El impacto de Creality fue llevar la impresión FDM al usuario de bajo presupuesto: estudiantes, makers, escuelas con poco recurso, talleres domésticos y laboratorios que necesitaban varias máquinas económicas.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://www.3dmarket.mx/wp-content/uploads/2023/09/Ender-3-V3-SE-3DM-22.webp)
 
 ## 2020: pandemia, fabricación distribuida y límites reales
 
 La pandemia de COVID-19 mostró una cara importante de la impresión 3D: su capacidad para responder rápido cuando las cadenas de suministro tradicionales fallan. Makerspaces, universidades, empresas y usuarios fabricaron adaptadores, caretas, piezas para equipo médico no crítico, dispositivos de apoyo y prototipos.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://media.defense.gov/2020/May/14/2002299942/825/780/0/200420-A-HF386-1000M.JPG)
 
 Sin embargo, también se hicieron evidentes los límites:
 - no toda pieza impresa es segura para uso médico;
@@ -253,7 +249,7 @@ La etapa actual está marcada por impresoras más rápidas, mejor calibradas y m
 
 La **Original Prusa MK4S** representa la continuidad del enfoque abierto y documentado. Es una impresora FDM de escritorio orientada a usuarios exigentes, educación, prototipado y laboratorios. La documentación de Prusa reporta para la familia MK4/S un volumen aproximado de **250 × 210 × 220 mm**.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://www.3dmarket.mx/wp-content/uploads/2024/10/ORIGINAL-PRUSA-MK4S-1.webp)
 
 **Fortalezas:** documentación sólida; comunidad; confiabilidad; reparabilidad; ecosistema abierto; perfiles de impresión maduros.
 
@@ -261,13 +257,13 @@ La **Original Prusa MK4S** representa la continuidad del enfoque abierto y docum
 
 **Bambu Lab** cambió el mercado reciente al combinar velocidad, calibración automática, ecosistema de software, conectividad y experiencia de usuario muy pulida. La **Bambu Lab A1**, que se usa como caso de estudio en este curso, tiene volumen de construcción de **256 × 256 × 256 mm**, hotend all-metal y extrusor con engranes endurecidos, según la ficha técnica del fabricante: autocalibración; perfiles de material; integración con Bambu Studio; envío de archivos más directo; menor fricción para usuarios nuevos; opción de impresión multicolor con AMS Lite.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://www.3dmarket.mx/wp-content/uploads/2024/02/Bambu-Lab-A1-es-una-impresora-3D-de-escritorio.webp)
 
 **Tipo de usuario:** educación; FabLabs; prototipado; usuarios de escritorio; talleres que necesitan resultados rápidos; personas que no quieren construir la máquina desde cero.
 
 En el campo de resina, **Formlabs Form 4** representa la madurez de la fotopolimerización de escritorio profesional. Formlabs reporta para la Form 4 un volumen de **20.0 × 12.5 × 21.0 cm**, y la orienta a materiales validados, alta resolución y ciclos rápidos de prototipado.
 
-![flujo](assets/img/intro/flujo-impresion.png)
+![flujo](https://mfg.trimech.com/wp-content/uploads/2024/04/formlabs-form-4-open-1117x1536.webp)
 
 **Usuarios típicos:** odontología; joyería; diseño de producto; laboratorios; ingeniería; modelos de alta resolución.
 
