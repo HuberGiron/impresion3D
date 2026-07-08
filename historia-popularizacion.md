@@ -399,4 +399,4 @@ En un FabLab, la impresora 3D no es solo una máquina que deposita plástico: es
 
 ## Siguiente sección
 
-[Tecnologías de impresión 3D](tecnologias.md)
+[Tecnologías de impresión 3D]
