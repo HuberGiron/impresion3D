@@ -50,7 +50,7 @@ SLS nunca se volvió una tecnología doméstica, pero sí fue una de las tecnolo
 
 La tecnología que más tarde dominaría la impresión 3D de escritorio fue **FDM** (*Fused Deposition Modeling*), patentada por Scott Crump y comercializada por **Stratasys**. La patente **[US5121329A](https://patents.google.com/patent/US5121329A/en)**, concedida en **1992**, describe un método y aparato para crear objetos tridimensionales mediante deposición controlada de material.
 
-![flujo](https://mfg.trimech.com/wp-content/uploads/2022/07/FDM20process-1-1.pngg)
+![flujo](https://mfg.trimech.com/wp-content/uploads/2022/07/FDM20process-1-1.png)
 
 FDM utiliza filamento termoplástico, lo calienta y lo deposita capa por capa. En el mundo abierto y maker también se usa el término **FFF** (*Fused Filament Fabrication*), especialmente para evitar el uso de una marca registrada asociada a Stratasys.
 
