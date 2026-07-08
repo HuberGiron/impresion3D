@@ -24,25 +24,11 @@ La patente describe un sistema para fabricar objetos tridimensionales creando pa
 
 **3D Systems fue fundada en 1986** y comercializó la tecnología SLA en el ambiente industrial. La **SLA-1**, enviada comercialmente a finales de los años ochenta, se convirtió en uno de los símbolos del inicio de la impresión 3D como industria.
 
-**Tipo de usuario de la época:**
-- centros de diseño industrial;
-- departamentos de ingeniería de empresas grandes;
-- automotriz;
-- aeroespacial;
-- laboratorios de investigación;
-- empresas de prototipado;
-- oficinas de diseño de producto.
+**Tipo de usuario de la época:** centros de diseño industrial; departamentos de ingeniería de empresas grandes; automotriz; aeroespacial; laboratorios de investigación; empresas de prototipado; oficinas de diseño de producto.
 
-**Uso principal:**
-- modelos conceptuales;
-- validación de forma;
-- prototipos para revisión visual;
-- patrones para fundición;
-- reducción de tiempos de diseño.
+**Uso principal:** modelos conceptuales; validación de forma; prototipos para revisión visual; patrones para fundición; reducción de tiempos de diseño.
 
-**Costo aproximado:**
-Las primeras impresoras 3D industriales se encontraban en rangos de cientos de miles de dólares. Algunas fuentes históricas ubican equipos de los años ochenta en el orden de **300,000 a 400,000 USD**, sin considerar materiales, mantenimiento, software, instalación ni capacitación.
-La impresión 3D nació como tecnología de alto costo.
+**Costo aproximado:** Las primeras impresoras 3D industriales se encontraban en rangos de cientos de miles de dólares. Algunas fuentes históricas ubican equipos de los años ochenta en el orden de **300,000 a 400,000 USD**, sin considerar materiales, mantenimiento, software, instalación ni capacitación. La impresión 3D nació como tecnología de alto costo.
 
 ![flujo](assets/img/intro/flujo-impresion.png)
 
@@ -58,27 +44,11 @@ El **Sinterizado Selectivo por Láser** o **SLS** fue desarrollado por Carl Deck
 
 La tecnología fue comercializada por **DTM Corporation**, empresa que después sería adquirida por 3D Systems en 2001. SLS se volvió muy importante porque permitió fabricar piezas funcionales, especialmente en polímeros como nylon, sin requerir soportes tradicionales: el polvo no sinterizado sostiene la pieza durante la fabricación.
 
-**Tipo de usuario:**
-- empresas de ingeniería avanzada;
-- automotriz;
-- aeroespacial;
-- laboratorios de materiales;
-- servicios de manufactura;
-- fabricantes que necesitaban piezas funcionales de geometría compleja.
+**Tipo de usuario:** empresas de ingeniería avanzada; automotriz; aeroespacial; laboratorios de materiales; servicios de manufactura; fabricantes que necesitaban piezas funcionales de geometría compleja.
 
-**Ventajas históricas de SLS:**
-- piezas más funcionales que muchas piezas SLA tempranas;
-- posibilidad de geometrías complejas;
-- fabricación de lotes pequeños;
-- menor dependencia de soportes;
-- uso de polímeros técnicos.
+**Ventajas históricas de SLS:** piezas más funcionales que muchas piezas SLA tempranas; posibilidad de geometrías complejas; fabricación de lotes pequeños; menor dependencia de soportes; uso de polímeros técnicos.
 
-**Limitaciones históricas:**
-- máquinas costosas;
-- control térmico complejo;
-- manejo de polvo;
-- postprocesado especializado;
-- difícil adopción doméstica.
+**Limitaciones históricas:** máquinas costosas; control térmico complejo; manejo de polvo; postprocesado especializado; difícil adopción doméstica.
 
 SLS nunca se volvió una tecnología doméstica, pero sí fue una de las tecnologías que empujó a la manufactura aditiva hacia aplicaciones funcionales e industriales.
 
@@ -88,13 +58,7 @@ La tecnología que más tarde dominaría la impresión 3D de escritorio fue **FD
 
 FDM utiliza filamento termoplástico, lo calienta y lo deposita capa por capa. En el mundo abierto y maker también se usa el término **FFF** (*Fused Filament Fabrication*), especialmente para evitar el uso de una marca registrada asociada a Stratasys.
 
-**Primer mercado de FDM:**
-- ingeniería;
-- prototipado funcional;
-- diseño de producto;
-- automotriz;
-- herramentales ligeros;
-- validación de piezas en ABS.
+**Primer mercado de FDM:** ingeniería; prototipado funcional; diseño de producto; automotriz; herramentales ligeros; validación de piezas en ABS.
 
 En 1992 Stratasys vendió su primera impresora FDM, la **3D Modeler**. A diferencia de SLA, FDM ofrecía una ruta con termoplásticos más familiares para ingeniería. La pieza no tenía el acabado de una pieza de resina, pero acercaba la impresión 3D a prototipos más robustos.
 
@@ -114,20 +78,10 @@ La base técnica de este proceso se relaciona con el trabajo de **Emanuel Sachs,
 
 ![flujo](assets/img/intro/flujo-impresion.png)
 
-**Tipo de usuario de Z Corp:**
-- diseño de producto;
-- arquitectura;
-- calzado;
-- automotriz;
-- laboratorios de visualización;
-- empresas que necesitaban modelos físicos rápidos y visuales.
+**Tipo de usuario de Z Corp:** diseño de producto;
+arquitectura; calzado; automotriz; laboratorios de visualización; empresas que necesitaban modelos físicos rápidos y visuales.
 
-**Uso principal:**
-- modelos de presentación;
-- geometrías conceptuales;
-- maquetas;
-- prototipos de comunicación;
-- modelos a color en generaciones posteriores.
+**Uso principal:** modelos de presentación; geometrías conceptuales; maquetas; prototipos de comunicación; modelos a color en generaciones posteriores.
 
 La importancia de Z Corp fue cultural y tecnológica: acercó la impresión 3D a la idea de "imprimir modelos" de manera más parecida a una impresora convencional, aunque seguía siendo una solución profesional.
 
@@ -139,20 +93,9 @@ Un salto relevante ocurrió en 2002 con la familia **Dimension** de Stratasys. L
 
 El valor de Dimension fue acercar FDM a oficinas de ingeniería y diseño que no podían adquirir una plataforma industrial de cientos de miles de dólares.
 
-**Usuarios típicos:**
-- oficinas de diseño mecánico;
-- departamentos de ingeniería;
-- universidades;
-- laboratorios de producto;
-- empresas medianas con necesidad de prototipado interno.
+**Usuarios típicos:** oficinas de diseño mecánico; departamentos de ingeniería; universidades; laboratorios de producto; empresas medianas con necesidad de prototipado interno.
 
-**Para qué se usaba:**
-- modelos de validación;
-- pruebas de ensamble;
-- prototipos en ABS;
-- herramientas simples;
-- revisión de interferencias;
-- comunicación con clientes.
+**Para qué se usaba:** modelos de validación; pruebas de ensamble; prototipos en ABS; herramientas simples; revisión de interferencias; comunicación con clientes.
 
 Modelos posteriores como **Dimension 1200es** ofrecían volúmenes de construcción de aproximadamente **254 × 254 × 305 mm**, con cartuchos de material ABS y soporte soluble. Esta etapa profesionalizó la impresión 3D como equipo de oficina técnica, aunque todavía no la convirtió en herramienta de bajo costo para FabLabs.
 
@@ -211,7 +154,7 @@ La **MakerBot Cupcake CNC** fue una de las primeras impresoras 3D de escritorio 
 
 MakerBot también impulsó **Thingiverse**, una plataforma para compartir archivos imprimibles. Esto fue tan importante como la máquina. Una impresora 3D sin modelos es una herramienta incompleta; un repositorio abierto reduce la barrera de entrada porque permite iniciar desde piezas existentes.
 
-Thingiverse ayudó a consolidar tres prácticas que siguen vigentes:
+Thingiverse ayudó a consolidar prácticas que siguen vigentes:
 - descargar modelos;
 - modificar diseños;
 - compartir remixes;
@@ -316,71 +259,23 @@ La **Original Prusa MK4S** representa la continuidad del enfoque abierto y docum
 
 ![flujo](assets/img/intro/flujo-impresion.png)
 
-**Fortalezas:**
-- documentación sólida;
-- comunidad;
-- confiabilidad;
-- reparabilidad;
-- ecosistema abierto;
-- perfiles de impresión maduros.
+**Fortalezas:** documentación sólida; comunidad; confiabilidad; reparabilidad; ecosistema abierto; perfiles de impresión maduros.
 
-**Usuario típico:**
-- universidades;
-- laboratorios;
-- makers avanzados;
-- prototipado profesional;
-- usuarios que valoran mantenimiento y documentación.
+**Usuario típico:** universidades; laboratorios; makers avanzados; prototipado profesional; usuarios que valoran mantenimiento y documentación.
 
-**Bambu Lab** cambió el mercado reciente al combinar velocidad, calibración automática, ecosistema de software, conectividad y experiencia de usuario muy pulida. La **Bambu Lab A1**, que se usa como caso de estudio en este curso, tiene volumen de construcción de **256 × 256 × 256 mm**, hotend all-metal y extrusor con engranes endurecidos, según la ficha técnica del fabricante:
-- autocalibración;
-- perfiles de material;
-- integración con Bambu Studio;
-- envío de archivos más directo;
-- menor fricción para usuarios nuevos;
-- opción de impresión multicolor con AMS Lite.
+**Bambu Lab** cambió el mercado reciente al combinar velocidad, calibración automática, ecosistema de software, conectividad y experiencia de usuario muy pulida. La **Bambu Lab A1**, que se usa como caso de estudio en este curso, tiene volumen de construcción de **256 × 256 × 256 mm**, hotend all-metal y extrusor con engranes endurecidos, según la ficha técnica del fabricante: autocalibración; perfiles de material; integración con Bambu Studio; envío de archivos más directo; menor fricción para usuarios nuevos; opción de impresión multicolor con AMS Lite.
 
 ![flujo](assets/img/intro/flujo-impresion.png)
 
-**Tipo de usuario:**
-- educación;
-- FabLabs;
-- prototipado;
-- usuarios de escritorio;
-- talleres que necesitan resultados rápidos;
-- personas que no quieren construir la máquina desde cero.
+**Tipo de usuario:** educación; FabLabs; prototipado; usuarios de escritorio; talleres que necesitan resultados rápidos; personas que no quieren construir la máquina desde cero.
 
 En el campo de resina, **Formlabs Form 4** representa la madurez de la fotopolimerización de escritorio profesional. Formlabs reporta para la Form 4 un volumen de **20.0 × 12.5 × 21.0 cm**, y la orienta a materiales validados, alta resolución y ciclos rápidos de prototipado.
 
 ![flujo](assets/img/intro/flujo-impresion.png)
 
-**Usuarios típicos:**
-- odontología;
-- joyería;
-- diseño de producto;
-- laboratorios;
-- ingeniería;
-- modelos de alta resolución.
+**Usuarios típicos:** odontología; joyería; diseño de producto; laboratorios; ingeniería; modelos de alta resolución.
 
 SLS sigue siendo menos común que FDM en espacios educativos básicos, pero también se ha compactado. 3D Systems anunció en 2023 la adquisición de **Wematter**, cuyo sistema **Gravity** buscaba llevar SLS a una forma más asequible y llave en mano. Esto muestra una tendencia: tecnologías que antes eran solo industriales empiezan a bajar de escala, aunque no necesariamente al nivel doméstico.
-
-La siguiente tabla no pretende ser un catálogo completo. Funciona como mapa de transición: de equipos industriales a equipos de escritorio y FabLab.
-
-| Periodo | Marca / modelo | Tecnología | Costo aproximado histórico | Capacidad / volumen reportado | Usuario típico | Aporte histórico |
-|---|---|---:|---:|---:|---|---|
-| 1988 | 3D Systems SLA-1 | SLA | 300,000–400,000 USD aprox. | Industrial, resina UV | R&D, automotriz, diseño industrial | Primera comercialización de impresión 3D |
-| 1992 | Stratasys 3D Modeler | FDM | Industrial, alto costo | FDM con termoplásticos | Ingeniería, prototipado funcional | Introduce FDM comercial |
-| 1990s | DTM Sinterstation | SLS | Industrial, alto costo | Polvo polimérico | Aeroespacial, automotriz, servicios | Piezas funcionales sin soportes tradicionales |
-| 1999 | Z Corp Z402 | Binder jetting | Profesional | Modelos rápidos desde CAD | NASA, Adidas, diseño, arquitectura | Prototipado rápido visual y veloz |
-| 2002 | Stratasys Dimension | FDM | 29,900 USD | Equipo de oficina técnica | Diseñadores, ingeniería, universidades | Reduce costo profesional de FDM |
-| 2008 | RepRap Darwin | FFF abierto | Cientos de USD, variable | Autoconstrucción | Makers, universidades, hackerspaces | Hardware abierto y autorreplicación parcial |
-| 2009 | MakerBot Cupcake CNC | FFF kit | 750 USD aprox. | 4 × 4 × 6 in aprox. | Makers, artistas, DIY | Primer gran símbolo de escritorio maker |
-| 2010 | MakerBot Thing-O-Matic | FFF kit | 1,225 USD aprox. | Escritorio | Hackerspaces, diseño, arte | Automatización básica y comunidad |
-| 2011 | Ultimaker Original | FFF kit | Kit prosumer | 210 × 210 × 205 mm aprox. | Makers avanzados, educación | Velocidad, precisión y ecosistema Cura |
-| 2012 | Prusa i3 | FFF abierto | Variable, bajo costo | Depende de variante | Educación, makers, clones | Arquitectura abierta más influyente |
-| 2018 en adelante | Creality Ender 3 | FFF | Bajo costo | 220 × 220 × 250 mm en variantes actuales | Estudiantes, makers, laboratorios | Masificación económica |
-| 2024–2026 | Prusa MK4S | FFF | Prosumer/profesional | 250 × 210 × 220 mm | Educación, ingeniería, prototipado | Fiabilidad, comunidad, documentación |
-| 2023–2026 | Bambu Lab A1 | FDM/FFF | Escritorio moderno | 256 × 256 × 256 mm | FabLabs, educación, prototipado | Automatización, velocidad, experiencia de usuario |
-| 2024–2026 | Formlabs Form 4 | MSLA/LFD resin | Profesional escritorio | 200 × 125 × 210 mm | Dental, joyería, ingeniería | Resina profesional rápida y accesible |
 
 ## ¿Dónde estamos hoy?
 
