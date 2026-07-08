@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aplicaciones
-nav_order: 7
+nav_exclude: true
 ---
 
 # Aplicaciones de la impresión 3D

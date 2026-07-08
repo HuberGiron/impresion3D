@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Modelado CAD
-nav_order: 10
+nav_exclude: true
 ---
 
 # Modelado CAD: paramétrico y orgánico

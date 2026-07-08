@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Repositorios online
-nav_order: 13
+nav_exclude: true
 ---
 
 # Repositorios online de modelos 3D

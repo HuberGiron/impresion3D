@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Slicers y laminado
-nav_order: 15
+nav_exclude: true
 ---
 
 # Slicers y laminado

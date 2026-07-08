@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inteligencia artificial y modelos 3D
-nav_order: 12
+nav_exclude: true
 ---
 
 # Inteligencia artificial y modelos 3D

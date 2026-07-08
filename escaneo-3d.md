@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Escaneo 3D
-nav_order: 11
+nav_exclude: true
 ---
 
 # Escaneo 3D

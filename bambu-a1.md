@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bambu Lab A1
-nav_order: 16
+nav_exclude: true
 ---
 
 # Bambu Lab A1 y Bambu Studio

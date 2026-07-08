@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fallas y calidad
-nav_order: 18
+nav_exclude: true
 ---
 
 # Fallas, calidad y diagnóstico

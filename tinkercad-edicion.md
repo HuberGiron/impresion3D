@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tinkercad y edición básica
-nav_order: 14
+nav_exclude: true
 ---
 
 # Tinkercad y edición básica

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Seguridad
-nav_order: 17
+nav_exclude: true
 ---
 
 # Seguridad en impresión 3D

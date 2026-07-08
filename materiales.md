@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Materiales
-nav_order: 6
+nav_exclude: true
 ---
 
 # Materiales para impresión 3D

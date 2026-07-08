@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archivos 3D y mallas
-nav_order: 9
+nav_exclude: true
 ---
 
 # Archivos 3D y mallas
