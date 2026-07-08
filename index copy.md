@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inicio
-nav_order: 1
+nav_exclude: true
 ---
 
 # Impresión 3D – Manual técnico introductorio para FabLab
@@ -16,19 +16,20 @@ La impresión 3D suele ubicarse dentro del campo de la **manufactura aditiva**, 
 
 1. [Manufactura aditiva e impresión 3D](manufactura-aditiva.md)
 2. [Historia y popularización](historia-popularizacion.md)
-3. Tecnologías de impresión 3D
-4. Materiales para impresión 3D
-5. Repositorios online de modelos 3D
-6. Flujo digital de impresión 3D
-7. Archivos 3D y mallas
-8. Modelado CAD: paramétrico y orgánico
-9. Escaneo 3D
-10. Inteligencia artificial y modelos 3D
-11. Tinkercad y edición básica
-12. Slicers y laminado
-13. Bambu Lab A1 y Bambu Studio
-14. Seguridad en impresión 3D
-15. Fallas, calidad y diagnóstico
+3. [Tecnologías de impresión 3D](tecnologias.md)
+4. [Materiales para impresión 3D](materiales.md)
+5. [Aplicaciones](aplicaciones.md)
+6. [Flujo digital de impresión 3D](flujo-digital.md)
+7. [Archivos 3D y mallas](archivos-mallas.md)
+8. [Modelado CAD: paramétrico y orgánico](modelado-cad.md)
+9. [Escaneo 3D](escaneo-3d.md)
+10. [Inteligencia artificial y modelos 3D](inteligencia-artificial-3d.md)
+11. [Repositorios online de modelos 3D](repositorios-online.md)
+12. [Tinkercad y edición básica](tinkercad-edicion.md)
+13. [Slicers y laminado](slicers-laminado.md)
+14. [Bambu Lab A1 y Bambu Studio](bambu-a1.md)
+15. [Seguridad en impresión 3D](seguridad.md)
+16. [Fallas, calidad y diagnóstico](fallas-calidad.md)
 
 ------------------------
 
